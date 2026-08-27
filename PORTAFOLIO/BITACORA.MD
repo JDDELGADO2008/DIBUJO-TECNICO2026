@@ -14,3 +14,12 @@ Dificultad encontrada y como la resolución:Algunas complicaciones a la hora de 
 - Error o comprobacion realizada:No hubo ningun error a la hora de realizar el ejercicio 
 - Correccion o resultado observado:Se corrigieron los detalles necesarios y se obtuvo una pieza cilíndrica con la cavidad superior, el orificio central y los bordes modificados correctamente.
 
+
+Semana 6  — Mapa antes de modelar
+
+Característica -- operacion prevista --  Dato que lo controla
+Base rectangular:  Extrusión             Largo, ancho y altura de la base
+Resalte superior:  unir                  distancia 
+Rebaje central:    cortar                profundidad
+Perforación:        retirar/cortar       diametro
+Aristas biseladas:   chaflan             distancia 
