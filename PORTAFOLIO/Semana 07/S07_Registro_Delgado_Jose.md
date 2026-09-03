@@ -16,7 +16,7 @@ Escriba la predicción antes de seleccionar la vista en Fusion. No borre una pre
 |---|---|---|
 | Front | [Predigo que el escalón se verá como silueta, porque se observa directamente el cambio de altura. La vista tendrá 60 mm de ancho y 40 mm de altura máxima.] | [Comprobación] |
 | Top | [Predigo que el escalón se verá como una línea interior, porque desde arriba se verá la separación entre la parte alta y la parte baja. La vista tendrá 60 mm de ancho y 30 mm de profundidad.] | [Comprobación] |
-| Right | [Predigo que el escalón no se verá como un escalón en la silueta, porque la parte alta está a la izquierda desde Front. Se observará principalmente un rectángulo de 30 mm de profundidad × 20 mm de altura.] | [Comprobación] |
+| Right | [Predigo que el escalón no se verá como un escalón en la silueta.] | [Comprobación] |
 
 ### Medidas verificadas con Inspect > Measure
 
