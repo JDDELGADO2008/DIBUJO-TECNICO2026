@@ -1,1 +1,2 @@
-
+Laboratorio integrador I-A
+Para iniciar el modelo utilicé una extrusión de 10 mm para crear la placa base de 80 × 50 mm. Luego, sobre la cara superior, agregué el resalte circular y las demás operaciones, manteniendo todo en un solo Body. Una dependencia importante del historial es que el resalte queda centrado respecto a la placa. Para comprobar que el modelo fuera paramétrico, cambié temporalmente la medida de 80 mm a 84 mm y después la regresé a 80 mm. El modelo se actualizó correctamente y conservó su geometría.
