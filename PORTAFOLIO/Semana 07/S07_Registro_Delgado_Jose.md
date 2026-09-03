@@ -14,9 +14,9 @@ Escriba la predicción antes de seleccionar la vista en Fusion. No borre una pre
 
 | Vista | Predicción sobre el escalón | ¿Qué observé al seleccionarla? |
 |---|---|---|
-| Front | [Predigo que el escalón se verá como silueta, porque se observa directamente el cambio de altura. La vista tendrá 60 mm de ancho y 40 mm de altura máxima.] | [Comprobación] |
-| Top | [Predigo que el escalón se verá como una línea interior, porque desde arriba se verá la separación entre la parte alta y la parte baja. La vista tendrá 60 mm de ancho y 30 mm de profundidad.] | [Comprobación] |
-| Right | [Predigo que el escalón no se verá como un escalón en la silueta, porque la parte alta está a la izquierda desde Front. Se observará principalmente un rectángulo de 30 mm de profundidad × 20 mm de altura.] | [Comprobación] |
+| Front | [Predigo que el escalón se verá como silueta, porque se observa directamente el cambio de altura. La vista tendrá 60 mm de ancho y 40 mm de altura máxima.] | [Se observó el escalón como una silueta, con una parte de 40 mm de altura y el ancho de 60 mm. La predicción se confirmó.] |
+| Top | [Predigo que el escalón se verá como una línea interior, porque desde arriba se verá la separación entre la parte alta y la parte baja. La vista tendrá 60 mm de ancho y 30 mm de profundidad.] | [la anchura de la figura es de 63,24mm por eso la prediccion no se cumple en esa parte pero si tiene 30mm de profundidad asi que por esa parte si se cumple la preddicion. ] |
+| Right | [Predigo que el escalón no se verá como un escalón en la silueta. Se observará principalmente un rectángulo de 30 mm de profundidad × 20 mm de altura.] | [La profundidad es de 40mm por eso no se cumple la prediccion y la altura es de 56,56mm entonces la prediccion no se cumple. ] |
 
 ### Medidas verificadas con Inspect > Measure
 
