@@ -70,31 +70,31 @@ Un montaje de tres capturas de Fusion: Right a la izquierda, Front a la derecha 
 
 ### P2.1 · ¿Qué forma general imagina y cuáles son sus cambios de altura?
 
-[Respuesta]
+[Imagino una pieza prismática escalonada, formada por una zona de mayor altura y otra zona de menor altura. La altura cambia de una zona a otra, formando un escalón claramente visible en Front y Right.]
 
 ### P2.2 · ¿La profundidad se mantiene o cambia entre zonas? Relacione las tres vistas.
 
-[Respuesta]
+[La profundidad total se mantiene como parte de la pieza, pero la posición de los cambios de altura se distribuye a lo largo de la profundidad. Por eso es necesario relacionar Top con Right para determinar dónde se encuentra cada zona respecto al frente y al fondo.]
 
 ### P2.3 · ¿Qué correspondencias encuentra entre vistas?
 
-[Respuesta]
+[Front y Top comparten el ancho X. Front y Right comparten la altura Z. Top y Right comparten la profundidad Y. Estas correspondencias permiten ubicar los cambios de altura y profundidad sin modificar la orientación de la pieza.]
 
 ### P2.4 · ¿Qué información aporta Top y qué información aporta Right?
 
-[Respuesta]
+[Top permite conocer cómo se distribuye la pieza en ancho y profundidad, es decir, X y Y. Right permite comprobar cómo cambia la altura a lo largo de la profundidad, es decir, Y y Z.]
 
 ### P2.5 · Describa verbalmente la pieza imaginada antes de mirar las alternativas.
 
-[Respuesta]
+[Imagino una pieza maciza con forma escalonada. Tiene una base de menor altura y una zona elevada que ocupa una parte del ancho y de la profundidad. La zona elevada produce cambios de altura visibles en Front y Right, mientras que Top permite localizar su posición sobre la superficie.]
 
 ### P2.6 · ¿Selecciona A, B, C o D? Justifique antes de comprobar y descarte cada una de las otras tres mediante una vista.
 
-[Respuesta]
+[Por la combinación de las tres vistas, B es la alternativa que corresponde a la distribución indicada: una zona elevada hacia el frente y una zona baja que continúa hacia el fondo.Mi selección se basa en que la vista Front muestra el cambio de altura y la vista Right confirma la posición de la zona elevada respecto de la profundidad. La vista Top permite comprobar la ubicación de esa zona en X–Y.]
 
 ### P2.7 · Después de comprobar: ¿fue correcta su selección, qué interpretó incorrectamente si falló y qué vista fue decisiva? Conserve la selección inicial y explique la corrección.
 
-[Respuesta]
+[]
 
 | Alternativa | Justificación inicial: seleccionar o descartar | Vista que apoya mi decisión |
 |---|---|---|
