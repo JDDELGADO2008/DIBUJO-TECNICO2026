@@ -146,7 +146,7 @@ Caso C: Recuperé el modelo y alterné entre Front, Top y Right. Orbité el sól
 
 Una vista de Fusion que compruebe uno de los errores; nombre y ViewCube visibles. Para el caso B, incluya Measure con la arista completa y su longitud.
 
-![P3: Error](S08_P3_Error_Apellido_Nombre.png)
+![P3: Error](S08_P3_Error_Degado_Jose.png)
 
 
 ## P4 — Reconstrucción 3D guiada
