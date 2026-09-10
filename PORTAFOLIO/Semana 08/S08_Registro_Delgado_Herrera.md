@@ -94,7 +94,7 @@ Un montaje de tres capturas de Fusion: Right a la izquierda, Front a la derecha 
 
 ### P2.7 · Después de comprobar: ¿fue correcta su selección, qué interpretó incorrectamente si falló y qué vista fue decisiva? Conserve la selección inicial y explique la corrección.
 
-[]
+[La selección B fue correcta. La comprobación en Fusion confirmó que la distribución de la zona elevada y la zona de menor altura coincide con las vistas Front, Top y Right. La vista Right fue especialmente decisiva porque permitió comprobar la posición de la zona elevada respecto a la profundidad.]
 
 | Alternativa | Justificación inicial: seleccionar o descartar | Vista que apoya mi decisión |
 |---|---|---|
