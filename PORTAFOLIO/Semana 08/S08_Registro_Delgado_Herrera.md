@@ -98,10 +98,10 @@ Un montaje de tres capturas de Fusion: Right a la izquierda, Front a la derecha 
 
 | Alternativa | Justificación inicial: seleccionar o descartar | Vista que apoya mi decisión |
 |---|---|---|
-| A | [Respuesta] | [Respuesta] |
-| B | [Respuesta] | [Respuesta] |
-| C | [Respuesta] | [Respuesta] |
-| D | [Respuesta] | [Respuesta] |
+| A | [Selecciono A porque la zona elevada coincide con la posición y la forma mostradas en las tres vistas. La distribución del escalón corresponde con Front, Top y Right.] | [Top y Right] |
+| B | [Descarto B porque la zona elevada tiene una profundidad diferente a la indicada por las vistas, por lo que no coincide correctamente con la distribución mostrada en Top.] | [Top] |
+| C | [Descarto C porque presenta una zona elevada diferente y no mantiene la misma distribución de alturas que aparece en Front y Right.] | [Front] |
+| D | [Descarto D porque la zona elevada no coincide con la posición indicada en las vistas, especialmente en la relación entre la profundidad y la zona frontal.] | [Top] |
 
 ### Evidencias
 
