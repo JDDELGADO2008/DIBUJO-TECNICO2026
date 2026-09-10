@@ -2,8 +2,8 @@
 
 7 al 12 de septiembre de 2026. V Congreso Universitario. Consolidación de contenidos. Sin evaluaciones.
 
-- Estudiante: [Respuesta]
-- Grupo: [Respuesta]
+- Estudiante: [Jose Daniel Delgado Herrera]
+- Grupo: [60]
 - Carpeta o proyecto de Fusion Cloud con acceso docente (sin enlaces privados): [Respuesta]
 - Modelos proporcionados: `S08_P1_Modelo_Observacion.f3d` y, después de P2, `S08_P2_Modelo_Comprobacion.f3d`.
 - Copias personales: `ICT401_S08_P1_Apellido_Nombre` y `ICT401_S08_P2_Apellido_Nombre`.
