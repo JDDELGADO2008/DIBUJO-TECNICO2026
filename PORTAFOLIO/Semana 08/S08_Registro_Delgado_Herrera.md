@@ -59,7 +59,7 @@ Top y Right comparten la profundidad Y de 64.62mm.]
 
 Modelo completo en orientación pictórica, ViewCube y nombre de su copia visibles.
 
-![P1: Modelo](S08_P1_Modelo_Apellido_Nombre.png)
+![P1: Modelo](S08_P1_Modelo_delgado_jose.png)
 
 Un montaje de tres capturas de Fusion: Right a la izquierda, Front a la derecha y Top debajo de Front; etiquetas y cuerpo completo visibles.
 
