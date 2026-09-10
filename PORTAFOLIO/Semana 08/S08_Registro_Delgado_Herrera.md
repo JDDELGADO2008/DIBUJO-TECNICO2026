@@ -173,9 +173,9 @@ Una vista de Fusion que compruebe uno de los errores; nombre y ViewCube visibles
 
 | Vista | ¿Coincide? | Contorno y arista | Dimensión comprobada (mm) | Corrección y causa |
 |---|---|---|---|---|
-| Front | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| Top | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| Right | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
+Front	Sí	Contorno escalonado; arista del cambio vertical en X=24	64 × 40; alturas 10, 28 y 40	Se verificó el Sketch frontal y las alturas de los niveles.
+Top	Sí	Contorno de planta; arista transversal en Y=20	64 × 40; Y=20	Se verificó la profundidad y la posición del cambio mediante el Sketch.
+Right	Sí	Contorno lateral escalonado; arista del cambio en Y=20	40 × 40; alturas 10, 28 y 40	Se verificó la profundidad y las alturas para que coincidieran con Front y Top.
 
 ### Evidencias
 
