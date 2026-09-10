@@ -45,15 +45,15 @@ Top y Right comparten la profundidad Y de 64.62mm.]
 
 | Vista | Predicción inicial: características y dimensiones | Observación posterior | Corrección y causa |
 |---|---|---|---|
-| Front | [Respuesta] | [Respuesta] | [Respuesta] |
-| Top | [Respuesta] | [Respuesta] | [Respuesta] |
-| Right | [Respuesta] | [Respuesta] | [Respuesta] |
+| Front | [Espero observar el perfil escalonado de la pieza, con tres niveles de altura. Horizontalmente veré el ancho X y verticalmente la altura Z.] | [Se observa claramente el perfil escalonado con tres niveles. Se confirma que Front representa X–Z. | [No fue necesario corregir la predicción. La vista confirmó que el perfil frontal muestra el ancho y las alturas de los tres niveles.] |
+| Top | [Espero observar la distribución de los escalones desde arriba. Horizontalmente veré el ancho X y verticalmente la profundidad Y.] | [Se observa la distribución de las diferentes zonas de la pieza desde arriba. Se confirma que Top representa X–Y.] | [No fue necesario corregir la predicción. La vista confirma que permite identificar el ancho y la profundidad.] |
+| Right | [Espero observar los cambios de altura a lo largo de la profundidad. Horizontalmente veré la profundidad Y y verticalmente la altura Z.] | [Se observan los cambios de nivel de la pieza desde el lado derecho. Se confirma que Right representa Y–Z.] | [No fue necesario corregir la predicción. La vista confirma la relación entre profundidad y altura.] |
 
 | Dimensión compartida | Par de vistas | Valor (mm) y arista seleccionada |
 |---|---|---|
-| Ancho | [Respuesta] | [Respuesta] |
-| Altura | [Respuesta] | [Respuesta] |
-| Profundidad | [Respuesta] | [Respuesta] |
+| Ancho | [Front ↔ Top] | [60mm — arista horizontal completa que representa el ancho X] |
+| Altura | [Front ↔ Right] | [36mm — arista vertical completa que representa la altura Z |
+| Profundidad | [Top ↔ Right] | [20mm arista horizontal completa que representa la profundidad Y] |
 
 ### Evidencias
 
