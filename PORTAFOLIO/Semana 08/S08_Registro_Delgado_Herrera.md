@@ -21,23 +21,27 @@ X = ancho, Y = profundidad, Z = altura; milímetros. Primer diedro: Right a la i
 
 ### P1.1 · Antes de seleccionar Front, Top o Right: ¿qué características, caras y aristas espera ver en cada vista y qué dimensiones aparecerán horizontal y verticalmente?
 
-[Respuesta]
+[Front: espero observar el ancho y la altura de la pieza. Horizontalmente corresponde al eje X y verticalmente al eje Z.
+Top: espero observar el ancho y la profundidad. Horizontalmente corresponde a X y verticalmente a Y.
+Right: espero observar la profundidad y la altura. Horizontalmente corresponde a Y y verticalmente a Z.]
 
 ### P1.2 · ¿Cuál vista considera inicialmente más informativa y por qué?
 
-[Respuesta]
+[Considero que Front es la vista más informativa inicialmente porque permite identificar directamente el ancho y las diferentes alturas de la pieza.]
 
 ### P1.3 · Después de observar Front, Top y Right: ¿qué predicciones confirmó y qué corrigió? Explique por qué sin borrar su respuesta inicial.
 
-[Respuesta]
+[con front logre ver la altura y lo largo de la figura, con top logre ver el largo y los niveles de los escalones y con right se puede ver la altura y los escalones como divisiones en un rectangulo]
 
 ### P1.4 · ¿Qué pares de vistas comparten ancho, altura y profundidad? Anote el valor comprobado en milímetros y la arista seleccionada.
 
-[Respuesta]
+[Front y Top comparten el ancho X de 60 mm
+Front y Right comparten la altura Z de 36mm.
+Top y Right comparten la profundidad Y de 64.62mm.]
 
 ### P1.5 · Elija una característica tridimensional: ¿cómo aparece en dos vistas diferentes? Identifique las caras o aristas relacionadas.
 
-[Respuesta]
+[Un cambio de nivel de la pieza puede aparecer como una arista o cambio de contorno en Front y como una línea de cambio de zona en Top. Las dos representaciones corresponden a la misma característica tridimensional, pero observada desde direcciones diferentes.]
 
 | Vista | Predicción inicial: características y dimensiones | Observación posterior | Corrección y causa |
 |---|---|---|---|
