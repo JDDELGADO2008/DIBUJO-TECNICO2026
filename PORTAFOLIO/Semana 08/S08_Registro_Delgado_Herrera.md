@@ -107,7 +107,7 @@ Un montaje de tres capturas de Fusion: Right a la izquierda, Front a la derecha 
 
 Modelo correcto proporcionado por el docente durante la comprobación, en orientación pictórica, con nombre y ViewCube visibles.
 
-![P2: Seleccion](S08_P2_Seleccion_Apellido_Nombre.png)
+![P2: Seleccion](S08_P2_Seleccion_Delgado_Jose.png)
 
 
 ## P3 — Detectives de vistas
