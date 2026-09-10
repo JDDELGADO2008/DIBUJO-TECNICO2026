@@ -153,23 +153,23 @@ Una vista de Fusion que compruebe uno de los errores; nombre y ViewCube visibles
 
 ### P4.1 · Antes de abrir Fusion: indique ancho total, altura máxima, profundidad total y número de niveles o cambios principales.
 
-[Respuesta]
+[Ancho total: 64 mm. Altura máxima: 40 mm. Profundidad total: 40 mm. La pieza tiene tres niveles principales de altura: 10 mm, 28 mm y 40 mm, con un cambio vertical en X=24 mm. También presenta un cambio de profundidad en Y=20 mm.]
 
 ### P4.2 · ¿Qué vista usará como referencia, qué plano inicial elegirá y cómo será su boceto base? Justifique relacionando las vistas.
 
-[Respuesta]
+[Usaré la vista Front como referencia principal porque permite observar directamente el ancho X=64 mm y las alturas Z=10, 28 y 40 mm. Elegiré el plano XZ para realizar el boceto base, ya que relaciona directamente el ancho y la altura. El boceto base será un perfil cerrado de la silueta frontal, ubicado respecto al origen y con las dimensiones necesarias para controlar su posición. Después utilizaré la profundidad Y=40 mm indicada por las vistas Top y Right para darle volumen.]
 
 ### P4.3 · ¿Cuál será su primera operación 3D y qué características posteriores prevé? Justifique.
 
-[Respuesta]
+[La primera operación 3D será una extrusión del boceto base en la dirección del eje Y, con una profundidad de 40 mm. Después agregaré las características correspondientes a los diferentes niveles mediante nuevos bocetos y extrusiones, usando Join para mantener un solo cuerpo. Las alturas añadidas se calcularán como diferencias entre niveles, por ejemplo, de 10 a 28 mm son 18 mm y de 28 a 40 mm son 12 mm.]
 
 ### P4.4 · Después de construir: ¿coincide Front, coincide Top y coincide Right? Para cada vista cite un contorno, una arista y una dimensión comprobada.
 
-[Respuesta]
+[Sí, las tres vistas deben coincidir al finalizar la reconstrucción. En Front se debe comprobar el contorno escalonado y las alturas de 10, 28 y 40 mm, manteniendo el ancho total de 64 mm. En Top se debe comprobar el contorno de la planta, la arista transversal ubicada en Y=20 mm y el ancho de 64 mm junto con la profundidad de 40 mm. En Right se debe comprobar el contorno de los niveles, la arista correspondiente al cambio en Y=20 mm y la altura máxima de 40 mm. La correspondencia fundamental es X entre Front y Top, Y entre Top y Right, y Z entre Front y Right.]
 
 ### P4.5 · ¿Qué fue necesario corregir y qué Sketch, operación o dimensión controlaba la corrección? Si no hubo cambios, justifique con una comprobación.
 
-[Respuesta]
+[Fue necesario comprobar que las posiciones y alturas de los cambios coincidieran entre las tres vistas. La corrección se controla principalmente mediante los Sketches y sus dimensiones, especialmente el cambio vertical en X=24 mm, el cambio de profundidad en Y=20 mm y las alturas de 10, 28 y 40 mm. Después de ajustar estas dimensiones, se deben volver a revisar Front, Top y Right para confirmar que las tres vistas coinciden. La guía indica que, si una vista no coincide, se debe editar el Sketch, la operación o la dimensión responsable y comprobar nuevamente las tres vistas.]
 
 | Vista | ¿Coincide? | Contorno y arista | Dimensión comprobada (mm) | Corrección y causa |
 |---|---|---|---|---|
