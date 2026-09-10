@@ -63,7 +63,7 @@ Modelo completo en orientación pictórica, ViewCube y nombre de su copia visibl
 
 Un montaje de tres capturas de Fusion: Right a la izquierda, Front a la derecha y Top debajo de Front; etiquetas y cuerpo completo visibles.
 
-![P1: Vistas](S08_P1_Vistas_Apellido_Nombre.png)
+![P1: Vistas](S08_P1_Vistas_Delgado_Jose.png)
 
 
 ## P2 — De las vistas al modelo mental
