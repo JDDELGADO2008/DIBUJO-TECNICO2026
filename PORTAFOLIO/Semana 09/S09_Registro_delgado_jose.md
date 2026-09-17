@@ -48,11 +48,11 @@ X = ancho, Y = profundidad, Z = altura. Trabaje en milímetros. Cuando compare v
 
 ### P1.5 · Después de comprobar en Fusion, ¿qué parte de la estrategia funcionó y qué tuvo que corregir?
 
-[La estrategia de construir primero la base y después el resalte funcionó correctamente porque permitió controlar por separado las dimensiones principales. Al comprobar las vistas en Fusion, tuve que revisar principalmente la posición del resalte para asegurar que quedara en la zona posterior izquierda y que sus dimensiones fueran 30 × 20 mm. También comprobé que la extrusión adicional de 18 mm llevara la pieza hasta la altura total de 30 mm.]
+[La estrategia de construir primero la base y después el resalte funcionó correctamente. Al comprobar el modelo en Fusion, verifiqué que la pieza tuviera la forma escalonada indicada en el plano y que el resalte estuviera ubicado en la parte posterior izquierda. La principal comprobación fue mantener la base en 70 × 40 mm, con 12 mm de altura, y llevar el resalte hasta una altura total de 30 mm.]
 
 ### P1.6 · ¿Qué vista o dimensión permitió detectar la corrección?
 
-[La vista Top permitió detectar la corrección de la posición y las dimensiones del resalte, especialmente los 30 mm de ancho y los 20 mm de profundidad. La vista Front permitió comprobar la altura de la base de 12 mm y la altura total de 30 mm]
+[La vista Top permitió comprobar la posición y el tamaño del resalte de 30 × 20 mm. La vista Front permitió comprobar la altura de la base de 12 mm y la altura total de 30 mm. La vista Right permitió comprobar la profundidad total de 40 mm y la profundidad del resalte.]
 
 ### Evidencias P1
 
