@@ -23,36 +23,37 @@ Esta ficha forma parte de la evidencia evaluable del Laboratorio integrador I-B 
 
 ### A1 · Dimensiones generales
 
-- X total: [Respuesta]
-- Y total: [Respuesta]
-- Z total: [Respuesta]
+- X total: [90 mm]
+- Y total: [60 mm
+]
+- Z total: [42 mm]
 
 ### A2 · Características geométricas identificadas
 
 | Nº | Característica | Descripción | Vista(s) que la definen | Dimensiones asociadas |
 |---|---|---|---|---|
-| 1 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 2 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 3 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 4 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 5 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
+| 1 | [Base] | [Base rectangular que forma el cuerpo inferior de la pieza.] | [Front, Top y Right] | [90 × 60 mm; altura 12 mm] |
+| 2 | [Plataforma] | [Plataforma elevada ubicada en la parte posterior, sobre la base.] | [Front, Top y Right] | [X = 0–60 mm; Y = 25–60 mm; altura adicional 16 mm] |
+| 3 | [Torre] | [Torre ubicada sobre la plataforma en el lado izquierdo.] | [Front, Top y Right] | [X = 0–25 mm; Y = 25–60 mm; altura adicional 14 mm] |
+| 4 | [Agujero] | [Perforación circular vertical pasante.] | [Top, Front y Right] | [Ø14 mm; centro (42,42)] |
+| 5 | [Ranura] | [Ranura rectangular vertical pasante ubicada en la zona frontal derecha.] | [Top, Front y Right] | [14 × 12 mm; X = 68–82 mm; Y = 10–22 mm] |
 
 ### A3 · Describa la pieza en una frase técnica antes de abrir Fusion
 
-[Respuesta]
+[La pieza es un sólido escalonado formado por una base rectangular de 90 × 60 mm y 12 mm de altura, una plataforma posterior de 60 × 35 mm, una torre de 25 × 35 mm que alcanza una altura total de 42 mm, un agujero vertical pasante de Ø14 mm y una ranura rectangular vertical pasante de 14 × 12 mm.]
 
 ### A4 · ¿Qué plano de boceto utilizará primero y por qué?
 
-[Respuesta]
+[Utilizaré primero el plano XY porque permite definir directamente el ancho X y la profundidad Y de la base. En este plano realizaré el rectángulo de 90 × 60 mm y después lo extruiré 12 mm en Z. A partir de la cara superior de la base podré construir la plataforma y posteriormente la torre, relacionando sus posiciones con la vista Top y sus alturas con Front y Right.]
 
 ### A5 · Estrategia inicial de modelado
 
-1. [Respuesta]
-2. [Respuesta]
-3. [Respuesta]
-4. [Respuesta]
-5. [Respuesta]
-6. [Respuesta]
+1 Crear un Sketch en el plano XY y dibujar la base de 90 × 60 mm; extruirla 12 mm en Z.
+2 Crear un segundo Sketch sobre la cara superior de la base para dibujar la plataforma en X = 0–60 y Y = 25–60; extruirla 16 mm adicionales.
+3 Crear un tercer Sketch sobre la plataforma para dibujar la torre en X = 0–25 y Y = 25–60; extruirla 14 mm adicionales hasta alcanzar la altura total de 42 mm.
+4 Crear el agujero de Ø14 mm en la posición indicada por el centro (42,42) y realizar un corte vertical pasante.
+5 Crear la ranura rectangular de 14 × 12 mm en X = 68–82 y Y = 10–22 y realizar un corte vertical pasante.
+6 Comparar las vistas Front, Top y Right del modelo con el plano y comprobar las dimensiones críticas utilizando Inspect → Measure.
 
 ---
 
