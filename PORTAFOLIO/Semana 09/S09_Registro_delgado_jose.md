@@ -176,31 +176,31 @@ Captura de una comprobación dimensional con `Inspect > Measure`.
 
 La diferencia principal entre reconstruir una pieza en Semana 8 y reconstruirla desde un plano en Semana 9 es:
 
-[Respuesta]
+[En Semana 8 se trabajó principalmente con la interpretación coordinada de las vistas, mientras que en Semana 9 se debe interpretar el plano y convertir esa información en una estrategia de modelado paramétrico antes de abrir Fusion. Además, en Semana 9 se debe verificar y corregir el modelo comparándolo con las vistas y dimensiones del plano.]
 
 Antes de abrir Fusion, la información mínima que debo extraer de un plano es:
 
-[Respuesta]
+[Las dimensiones globales X, Y y Z, las alturas y niveles principales, las características geométricas de la pieza, la posición de cada característica y las vistas que permiten definir su forma y dimensiones.]
 
 Una estrategia de modelado es mejor que otra cuando:
 
-[Respuesta]
+[Permite representar correctamente la geometría y, al mismo tiempo, facilita la edición, muestra claramente la intención de diseño y mantiene una relación lógica con las vistas y dimensiones del plano. No se debe elegir solamente por tener menos operaciones.]
 
 La comprobación final más importante para asegurar que el modelo corresponde al plano es:
 
-[Respuesta]
+[Comparar las vistas Front, Top y Right del modelo con las correspondientes vistas del plano y verificar las dimensiones críticas mediante la herramienta Measure. El modelo debe coincidir geométricamente con las tres vistas y con las dimensiones indicadas.]
 
 ## Checklist
 
-- [ ] Registré la estrategia inicial de P1 antes de comprobar en Fusion.
-- [ ] Comparé dos estrategias en P2 y justifiqué mi selección.
+- [ ☑️] Registré la estrategia inicial de P1 antes de comprobar en Fusion.
+- [☑️ ] Comparé dos estrategias en P2 y justifiqué mi selección.
 - [ ] Reconstruí P3 a partir del plano sin usar un modelo 3D de referencia.
-- [ ] Comparé Front, Top y Right contra el plano.
-- [ ] Verifiqué al menos cuatro dimensiones críticas en P3.
-- [ ] Documenté las correcciones sin borrar mis decisiones iniciales.
-- [ ] Las cinco imágenes se visualizan correctamente en GitHub.
+- [☑️ ] Comparé Front, Top y Right contra el plano.
+- [☑️ ] Verifiqué al menos cuatro dimensiones críticas en P3.
+- [☑️ ] Documenté las correcciones sin borrar mis decisiones iniciales.
+- [☑️ ] Las cinco imágenes se visualizan correctamente en GitHub.
 - [ ] Los modelos P1–P3 están disponibles en Fusion Cloud con acceso docente.
-- [ ] Completé la reflexión final.
+- [☑️ ] Completé la reflexión final.
 
 Commit sugerido: `S09 ejercicios Fusion Apellido Nombre`.
 
