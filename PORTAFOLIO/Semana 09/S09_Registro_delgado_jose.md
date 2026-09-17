@@ -102,7 +102,7 @@ Captura donde se vea el Sketch, dimensión u operación que mejor representa la 
 
 Captura del historial/timeline y del modelo obtenido con la estrategia seleccionada.
 
-![P2: Estrategia seleccionada](S09_P2_Estrategia_Apellido_Nombre.png)
+![P2: Estrategia seleccionada](S09_P2_Estrategia_Delgado_Jose.png)
 
 ---
 
