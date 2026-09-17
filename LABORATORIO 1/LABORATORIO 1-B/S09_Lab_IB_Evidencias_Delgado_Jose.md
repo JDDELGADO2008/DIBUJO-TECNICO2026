@@ -61,30 +61,30 @@ Esta ficha forma parte de la evidencia evaluable del Laboratorio integrador I-B 
 
 ### B1 · Boceto base
 
-- Plano seleccionado: [Respuesta]
-- Geometría principal: [Respuesta]
-- Restricciones aplicadas: [Respuesta]
-- Dimensiones aplicadas: [Respuesta]
-- Estado del boceto: [Respuesta]
+- Plano seleccionado: [XY]
+- Geometría principal: [Rectángulo de 90 × 60 mm que representa la base de la pieza.]
+- Restricciones aplicadas: [Coincidencia con el origen, líneas horizontales y verticales y restricciones de coincidencia entre los extremos de las líneas.]
+- Dimensiones aplicadas: [90 mm de ancho total y 60 mm de profundidad total.]
+- Estado del boceto: [Totalmente restringido y cerrado, listo para realizar la primera extrusión.]
 
 ### B2 · Operaciones principales realizadas
 
 | Orden | Operación | Propósito geométrico | Parámetro/dimensión principal | Resultado |
 |---|---|---|---|---|
-| 1 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 2 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 3 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 4 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 5 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 6 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
+| 1 | [Sketch base] | [Definir la base rectangular de la pieza] | [90 × 60 mm] | [Perfil cerrado de la base] |
+| 2 | [Extrude base] | [Crear el cuerpo inferior] | [12 mm] | [Base sólida de 90 × 60 × 12 mm] |
+| 3 | [Sketch + Extrude plataforma] | [Crear la plataforma posterior] | [X = 0–60, Y = 25–60; +16 mm] | [Plataforma elevada hasta 28 mm] |
+| 4 | [Sketch + Extrude torre] | [Crear la torre izquierda] | [X = 0–25, Y = 25–60; +14 mm] | [Altura total de 42 mm] |
+| 5 | [Hole/Cut] | [Crear la perforación vertical] | [Ø14 mm; centro (42,42)] | [Agujero pasante] |
+| 6 | [Sketch + Cut ranura] | [Crear la ranura rectangular] | [14 × 12 mm; X = 68–82, Y = 10–22] | [Ranura pasante] |
 
 ### B3 · Cambios respecto a la estrategia inicial
 
 | Cambio realizado | Motivo | Vista/dimensión que reveló el problema | Sketch/operación corregida |
 |---|---|---|---|
-| [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
+| [No fue necesario realizar cambios] | [La estrategia inicial coincidió con el plano] | [Front, Top y Right fueron coherentes] | [No fue necesario modificar ningún Sketch u operación] |
+| [No fue necesario realizar cambios] | [Las posiciones de plataforma y torre coincidieron con el plano] | [Top permitió comprobar X y Y] | [No fue necesario modificar el Sketch de plataforma o torre] |
+| No fue necesario realizar cambios] | [El agujero y la ranura se ubicaron según las cotas del plano] | [El agujero y la ranura se ubicaron según las cotas del plano] | [No fue necesario modificar las operaciones de corte] |
 
 ---
 
@@ -94,9 +94,9 @@ Esta ficha forma parte de la evidencia evaluable del Laboratorio integrador I-B 
 
 | Vista | ¿Coincide? | Evidencia geométrica | Diferencia detectada | Corrección realizada |
 |---|---|---|---|---|
-| Front | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| Top | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| Right | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
+| Front | [Sí] | [Coinciden el contorno exterior, la base, la plataforma y la torre; la altura máxima es 42 mm] | [Ninguna] | [No fue necesaria corrección] |
+| Top | [Sí] | [Coinciden el contorno de 90 × 60 mm, la plataforma, la torre, el agujero y la ranura] | [Ninguna] | [No fue necesaria corrección] |
+| Right | [Sí] | [Coinciden la profundidad de 60 mm, la base de 12 mm, la plataforma y la altura total de 42 mm] | [Ninguna] | [No fue necesaria corrección] |
 
 ### C2 · Comprobación dimensional
 
@@ -122,31 +122,31 @@ Si una dimensión principal de la pieza cambiara, indique qué Sketch, dimensió
 
 Modelo completo en orientación pictórica, con nombre del diseño y ViewCube visibles.
 
-![Lab I-B: Modelo final](S09_LabIB_Modelo_Apellido_Nombre.png)
+![Lab I-B: Modelo final](S09_LabIB_Modelo_Delgado_Jose.png)
 
 ### D2 · Vistas de verificación
 
 Montaje de Front, Top y Right del modelo, presentado de manera clara para comparar con el plano base.
 
-![Lab I-B: Vistas](S09_LabIB_Vistas_Apellido_Nombre.png)
+![Lab I-B: Vistas](S09_LabIB_Vistas_Delgado_Jose.png)
 
 ### D3 · Boceto y restricciones
 
 Captura del boceto más representativo con restricciones y dimensiones visibles.
 
-![Lab I-B: Boceto](S09_LabIB_Boceto_Apellido_Nombre.png)
+![Lab I-B: Boceto](S09_LabIB_Boceto_Delgado_Jose.png)
 
 ### D4 · Timeline / historial paramétrico
 
 Captura donde se observen las operaciones principales del historial del modelo.
 
-![Lab I-B: Timeline](S09_LabIB_Timeline_Apellido_Nombre.png)
+![Lab I-B: Timeline](S09_LabIB_Timeline_Delgado_Jose.png)
 
 ### D5 · Verificación dimensional
 
 Captura de `Inspect > Measure` con una dimensión crítica y el elemento seleccionado visibles.
 
-![Lab I-B: Medicion](S09_LabIB_Medicion_Apellido_Nombre.png)
+![Lab I-B: Medicion](S09_LabIB_Medicion_Delgado_Jose.png)
 
 ---
 
