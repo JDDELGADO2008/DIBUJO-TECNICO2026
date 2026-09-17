@@ -110,51 +110,50 @@ Captura del historial/timeline y del modelo obtenido con la estrategia seleccion
 
 ### P3.1 · Antes de modelar, describa la pieza en una frase técnica
 
-[Respuesta]
+[La pieza es un sólido escalonado formado por una base rectangular de 80 × 50 mm y 30 mm de altura, un resalte posterior de 45 × 30 mm que lleva la altura total a 45 mm, una perforación circular vertical pasante de Ø12 mm y una ranura rectangular vertical pasante de 12 × 16 mm.]
 
 ### P3.2 · Dimensiones y características clave
 
 | Elemento | Valor o descripción | Vista(s) de donde se obtiene |
 |---|---|---|
-| X total | [Respuesta] | [Respuesta] |
-| Y total | [Respuesta] | [Respuesta] |
-| Z total | [Respuesta] | [Respuesta] |
-| Característica 1 | [Respuesta] | [Respuesta] |
-| Característica 2 | [Respuesta] | [Respuesta] |
-| Característica 3 | [Respuesta] | [Respuesta] |
+| X total | [80 mm] | [Front y Top] |
+| Y total | [50 mm] | Right y Top |
+| Z total | 45 mm | [Front y Right] |
+| Característica 1 | [Base rectangular de 80 × 50 mm y 30 mm de altura] | [Base rectangular de 80 × 50 mm y 30 mm de altura] |
+| Característica 2 | [Resalte posterior de 45 × 30 mm, con altura adicional de 15 mm] | [Front, Top y Right] |
+| Característica 3 | [Agujero Ø12 mm y ranura rectangular 12 × 16 mm, ambas pasantes verticalmente] | [Top] |
 
 ### P3.3 · Estrategia inicial
 
-1. [Respuesta]
-2. [Respuesta]
-3. [Respuesta]
-4. [Respuesta]
-5. [Respuesta]
-
+1-Crear un Sketch en el plano XY y dibujar la base rectangular de 80 × 50 mm.
+2-Extruir la base 30 mm en Z para obtener el cuerpo principal.
+3-Crear un segundo Sketch sobre la cara superior para dibujar el resalte posterior de 45 × 30 mm y extruirlo 15 mm adicionales para alcanzar los 45 mm de altura total.
+4-Crear el agujero Ø12 mm en la posición indicada por el plano, con centro en X = 22 mm y Y = 35 mm, y realizar un corte pasante en Z.
+5-Crear la ranura rectangular de 12 × 16 mm en la posición X = 60–72 mm y Y = 8–24 mm y realizar un corte vertical pasante. Finalmente comprobar Front, Top y Right.
 ### P3.4 · Verificación de vistas
 
 | Vista | ¿Coincide con el plano? | Contorno/característica comprobada | Corrección realizada |
 |---|---|---|---|
-| Front | [Respuesta] | [Respuesta] | [Respuesta] |
-| Top | [Respuesta] | [Respuesta] | [Respuesta] |
-| Right | [Respuesta] | [Respuesta] | [Respuesta] |
+| Front | [Sí] | [Ancho total de 80 mm, altura de la base de 30 mm y altura total de 45 mm] | [No fue necesaria corrección] |
+| Top | [Sí] | Contorno de 80 × 50 mm, resalte de 45 × 30 mm, agujero y ranura] | [No fue necesaria corrección] |
+| Right | [Sí] | [Profundidad total de 50 mm, altura de 30 mm de la base y 45 mm total] | [No fue necesaria corrección] |
 
 ### P3.5 · Verificación dimensional
 
 | Dimensión crítica | Valor del plano | Valor medido en Fusion | Elemento medido | ¿Coincide? |
 |---|---|---|---|---|
-| 1 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 2 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 3 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 4 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
+| 1 | [80 mm] | [80 mm] | [Ancho total de la base] | [Sí] |
+| 2 | [50 mm] | [50 mm] | [Profundidad total de la pieza] | [Sí] |
+| 3 | [45 mm] | [45 mm] | [Altura total de la pieza] | [Sí] |
+| 4 | [Ø12 mm] | [Ø12 mm] | [Agujero circular pasante] | [Sí] |
 
 ### P3.6 · ¿Qué cambió entre su estrategia inicial y el modelo final?
 
-[Respuesta]
+[La estrategia inicial se mantuvo prácticamente igual durante el modelado. Primero construí la base, después agregué el resalte y finalmente realicé los cortes del agujero y de la ranura. Al comparar las tres vistas con el plano, comprobé que las dimensiones principales y la posición de las características fueran correctas.]
 
 ### P3.7 · Si tuviera que cambiar una dimensión principal, ¿qué Sketch, dimensión u operación editaría?
 
-[Respuesta]
+[Si tuviera que cambiar el ancho total de la pieza, editaría la dimensión de 80 mm del Sketch de la base y dejaría que las operaciones posteriores se actualizaran. Si cambiara la altura del resalte, editaría la dimensión de la extrusión del resalte. Para cambiar el agujero, modificaría su Sketch y la dimensión Ø12 mm.]
 
 ### Evidencias P3
 
