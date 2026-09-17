@@ -159,15 +159,16 @@ Captura del historial/timeline y del modelo obtenido con la estrategia seleccion
 
 Modelo final en orientación pictórica, con nombre y ViewCube visibles.
 
-![P3: Modelo final](S09_P3_Modelo_Apellido_Nombre.png)
+![P3: Modelo final](S09_P3_Modelo_Delgado_Jose.png)
 
 Montaje de Front, Top y Right del modelo para compararlos con el plano.
 
-![P3: Vistas](S09_P3_Vistas_Apellido_Nombre.png)
+![P3: Vistas](S09_P3_Vistas_Delgado_Jose.png)
 
 Captura de una comprobación dimensional con `Inspect > Measure`.
 
-![P3: Medicion](S09_P3_Medicion_Apellido_Nombre.png)
+![P3: Medicion](S09_P3_Medicion_Delgado_Herrera.png
+)
 
 ---
 
