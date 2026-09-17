@@ -58,7 +58,7 @@ X = ancho, Y = profundidad, Z = altura. Trabaje en milímetros. Cuando compare v
 
 Modelo parcial o final en orientación pictórica, con nombre del diseño y ViewCube visibles.
 
-![P1: Modelo](S09_P1_Modelo_Apellido_Nombre.png)
+![P1: Modelo](S09_P1_Modelo_Delgado_Jose.png)
 
 Captura donde se vea el Sketch, dimensión u operación que mejor representa la estrategia seguida.
 
