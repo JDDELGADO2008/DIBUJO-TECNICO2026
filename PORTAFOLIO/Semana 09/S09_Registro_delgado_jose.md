@@ -2,8 +2,8 @@
 
 14 al 19 de septiembre de 2026.
 
-- Estudiante: [Respuesta]
-- Grupo: [Respuesta]
+- Estudiante: [Jose daniel delgado herrera]
+- Grupo: [60]
 - Carpeta o proyecto de Fusion Cloud con acceso docente: [Respuesta]
 - Copias personales: `ICT401_S09_P1_Apellido_Nombre`, `ICT401_S09_P2_Apellido_Nombre`, `ICT401_S09_P3_Apellido_Nombre`.
 
@@ -21,38 +21,38 @@ X = ancho, Y = profundidad, Z = altura. Trabaje en milímetros. Cuando compare v
 
 ### P1.1 · Dimensiones generales identificadas antes de abrir Fusion
 
-- X total: [Respuesta]
-- Y total: [Respuesta]
-- Z total: [Respuesta]
+- X total: [70mm]
+- Y total: [40mm]
+- Z total: [30mm]
 
 ### P1.2 · Características geométricas identificadas
 
 | Característica | Descripción | Vista(s) que la definen | Dimensiones asociadas |
 |---|---|---|---|
-| 1 | [Respuesta] | [Respuesta] | [Respuesta] |
-| 2 | [Respuesta] | [Respuesta] | [Respuesta] |
-| 3 | [Respuesta] | [Respuesta] | [Respuesta] |
-| 4 | [Respuesta] | [Respuesta] | [Respuesta] |
+| 1 | [Base rectangular de la pieza | [Front y Top] | [70 mm de ancho × 40 mm de profundidad × 12 mm de altura] |
+| 2 | [Resalte posterior izquierdo] | [Front, Top y Right] | [30 mm de ancho × 20 mm de profundidad] |
+| 3 | [Altura total de la pieza] | [Front y Right] | [30 mm] |
+| 4 | [Posición del resalte] | [Top] | [X = 0–30 mm y Y = 20–40 mm] |
 
 ### P1.3 · ¿Qué plano de boceto utilizará primero y por qué?
 
-[Respuesta]
+[Utilizaré primero el plano XY, porque permite definir directamente la forma y las dimensiones de la base, que tiene 70 mm de ancho y 40 mm de profundidad. Después puedo extruir la base 12 mm en Z y crear sobre ella el resalte posterior izquierdo de 30 × 20 mm. Esta estrategia relaciona la información de Top con las alturas que se comprueban en Front y Right.]
 
 ### P1.4 · Estrategia inicial de modelado
 
-1. [Respuesta]
-2. [Respuesta]
-3. [Respuesta]
-4. [Respuesta]
-5. [Respuesta]
+1-Crear un Sketch en el plano XY y dibujar un rectángulo de 70 × 40 mm para representar la base.
+2-Extruir la base 12 mm en Z, obteniendo la altura de la plataforma principal.
+3-Crear un segundo Sketch sobre la cara superior de la base y dibujar el resalte de 30 × 20 mm en la posición posterior izquierda.
+4-Extruir el resalte 18 mm adicionales, para alcanzar la altura total de 30 mm.
+5-Comprobar el modelo en Front, Top y Right, verificando las dimensiones de 70, 40 y 30 mm y las dimensiones del resalte.
 
 ### P1.5 · Después de comprobar en Fusion, ¿qué parte de la estrategia funcionó y qué tuvo que corregir?
 
-[Respuesta]
+[La estrategia de construir primero la base y después el resalte funcionó correctamente porque permitió controlar por separado las dimensiones principales. Al comprobar las vistas en Fusion, tuve que revisar principalmente la posición del resalte para asegurar que quedara en la zona posterior izquierda y que sus dimensiones fueran 30 × 20 mm. También comprobé que la extrusión adicional de 18 mm llevara la pieza hasta la altura total de 30 mm.]
 
 ### P1.6 · ¿Qué vista o dimensión permitió detectar la corrección?
 
-[Respuesta]
+[La vista Top permitió detectar la corrección de la posición y las dimensiones del resalte, especialmente los 30 mm de ancho y los 20 mm de profundidad. La vista Front permitió comprobar la altura de la base de 12 mm y la altura total de 30 mm]
 
 ### Evidencias P1
 
