@@ -102,11 +102,11 @@ Esta ficha forma parte de la evidencia evaluable del Laboratorio integrador I-B 
 
 | Nº | Dimensión crítica | Valor del plano | Valor medido en Fusion | Elemento seleccionado | ¿Coincide? |
 |---|---|---|---|---|---|
-| 1 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 2 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 3 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 4 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 5 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
+| 1 | [X total] | [90 mm] | [90 mm] | [Arista del ancho total de la base] | [Sí] |
+| 2 | [Y total] | [60 mm] | [60 mm] | [Arista de profundidad total de la base] | [Sí] |
+| 3 | [Z total] | [42 mm] | [42 mm] | [Arista vertical de mayor altura] | [Sí] |
+| 4 | [Diámetro del agujero] | [Ø14 mm] | [Ø14 mm] | [Arista circular del agujero] | [Sí] |
+| 5 | [Ranura] | [14 × 12 mm] | [14 × 12 mm] | [Aristas de la ranura] | [Sí] |
 
 ### C3 · Editabilidad paramétrica
 
