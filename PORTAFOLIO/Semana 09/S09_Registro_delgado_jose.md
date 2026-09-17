@@ -62,7 +62,7 @@ Modelo parcial o final en orientación pictórica, con nombre del diseño y View
 
 Captura donde se vea el Sketch, dimensión u operación que mejor representa la estrategia seguida.
 
-![P1: Estrategia](S09_P1_Estrategia_Apellido_Nombre.png)
+![P1: Estrategia](S09_P1_Estrategia_delgado_jose.png)
 
 ---
 
