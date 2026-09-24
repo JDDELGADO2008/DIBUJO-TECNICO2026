@@ -54,7 +54,7 @@ X = ancho, Y = profundidad, Z = altura. Trabaje en milímetros. Cuando compare v
 
 Captura de las vistas ortogonales generadas desde el modelo.
 
-![P1: Vistas](S10_P1_Vistas_Apellido_Nombre.png)
+![P1: Vistas](S10_P1_Vistas_Delgado_Jose.png)
 
 Modelo 3D en orientación isométrica con nombre y ViewCube visibles.
 
