@@ -58,7 +58,7 @@ Captura de las vistas ortogonales generadas desde el modelo.
 
 Modelo 3D en orientación isométrica con nombre y ViewCube visibles.
 
-![P1: Modelo](S10_P1_Modelo_Apellido_Nombre.png)
+![P1: Modelo](S10_P1_Modelo_Delgado_Jose.png)
 
 ---
 
