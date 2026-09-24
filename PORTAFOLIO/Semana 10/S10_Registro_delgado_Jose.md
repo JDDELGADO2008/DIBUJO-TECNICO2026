@@ -91,7 +91,7 @@ Modelo 3D en orientación isométrica con nombre y ViewCube visibles.
 
 Captura del Drawing con las tres vistas insertadas y alineadas.
 
-![P2: Plano](S10_P2_Plano_Apellido_Nombre.png)
+![P2: Plano](S10_P1_Modelo_Delgado_Jose.png)
 
 ---
 
