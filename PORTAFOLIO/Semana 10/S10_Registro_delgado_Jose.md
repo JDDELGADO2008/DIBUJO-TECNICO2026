@@ -101,36 +101,36 @@ Captura del Drawing con las tres vistas insertadas y alineadas.
 
 | Dimensión | Valor | Vista donde se colocó | Justificación |
 |---|---|---|---|
-| Ancho total (X) | [Respuesta] | [Respuesta] | [Respuesta] |
-| Profundidad total (Y) | [Respuesta] | [Respuesta] | [Respuesta] |
-| Altura total (Z) | [Respuesta] | [Respuesta] | [Respuesta] |
+| Ancho total (X) | [80 mm] | [Front] | [Define el ancho total de la pieza.] |
+| Profundidad total (Y) | [50 mm] | [Top] | [Define la profundidad total de la pieza.] |
+| Altura total (Z) | [45 mm] | [Front] | [Define la altura máxima de la pieza.] |
 
 ### P3.2 · Dimensiones parciales y funcionales
 
 | Característica | Dimensión | Valor | Vista | ¿Repetida en otra vista? |
 |---|---|---|---|---|
-| [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
+| [Resalte] | [Ancho] | [45 mm] | [Front] | [No] |
+| [Resalte] | [Altura adicional] | [15 mm] | [Front] | [No] |
+| [Perforación] | [Diámetro] | [Ø12 mm] | [Top] | [No] |
+| [Perforación] | [Centro] | [X=22 mm, Y=35 mm] | [Top] | [No] |
 
 ### P3.3 · ¿Eliminó alguna cota por redundante? ¿Cuál?
 
-[Respuesta]
+[Sí. Se evitó repetir las dimensiones generales y las dimensiones de una misma característica en diferentes vistas. Cada dimensión se dejó en la vista donde se comunica de forma más clara.]
 
 ### P3.4 · ¿Alguna dimensión quedó dentro del contorno de la vista? ¿Qué hizo al respecto?
 
-[Respuesta]
+[Se revisaron las cotas y se movieron hacia el exterior del contorno siempre que fue posible. Esto permitió mantener libres las zonas interiores de las vistas y mejorar la legibilidad del Drawing.]
 
 ### P3.5 · ¿Qué criterio de organización utilizó para disponer las cotas?
 
-[Respuesta]
+[Primero se colocaron las dimensiones generales y posteriormente las dimensiones parciales y funcionales. Las cotas se organizaron de mayor a menor, de afuera hacia adentro, manteniendo separación suficiente entre las líneas de cota y evitando repeticiones.]
 
 ### Evidencias P3
 
 Captura del Drawing con las cotas aplicadas.
 
-![P3: Cotización](S10_P3_Cotizacion_Apellido_Nombre.png)
+![P3: Cotización](S10_P3_Cotizacion_Delgado_JOSE.png)
 
 Detalle de una zona del plano donde se aprecie la organización de las cotas.
 
