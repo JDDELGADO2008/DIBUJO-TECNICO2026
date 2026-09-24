@@ -180,41 +180,42 @@ Drawing completo con vistas y cotas.
 
 Comparación del Drawing con el modelo 3D.
 
-![P4: Verificación](S10_P4_Verificacion_Apellido_Nombre.png)
+![P4: Verificación](S10_P4_Verificacion_delgado_jose.png)
 
 ---
 
 ## Reflexión final
 
 La diferencia principal entre documentar una pieza en Semana 9 (reconstrucción desde plano) y documentarla en Semana 10 (generación de vistas desde modelo) es:
+La diferencia principal entre documentar una pieza en Semana 9 (reconstrucción desde plano) y documentarla en Semana 10 (generación de vistas desde modelo) es:
 
-[Respuesta]
+En Semana 9 se partió de las vistas y dimensiones del plano para reconstruir el modelo 3D. En Semana 10 se realizó el proceso inverso: se partió del modelo 3D construido para generar las vistas ortogonales y preparar su documentación técnica mediante un Drawing.
 
 Los criterios que utilicé para seleccionar las vistas necesarias fueron:
 
-[Respuesta]
+Seleccioné las vistas que comunican características diferentes y necesarias de la pieza. Front muestra principalmente el perfil y las alturas, Top comunica la profundidad y la posición de características como la perforación y la ranura, y Right permite comprobar la profundidad y las alturas desde el lateral. Se evitó utilizar vistas repetitivas que no aportaran información adicional.
 
 Los principios de acotación normalizada que más influyeron en la claridad de mi plano fueron:
 
-[Respuesta]
+Colocar las cotas fuera del contorno cuando fuera posible, evitar repetir dimensiones, mantener una separación clara entre líneas de cota y contornos, organizar las cotas de mayor a menor y utilizar cada dimensión en la vista donde la característica se comunica mejor.
 
 Si tuviera que agregar una vista adicional a una de mis piezas, sería:
 
-[Respuesta]
+Una vista isométrica de referencia, porque permitiría comparar visualmente la documentación 2D con el modelo 3D. La utilizaría como apoyo visual y no como sustitución de las vistas ortogonales.
 
 ## Checklist
 
-- [ ] Seleccioné las vistas necesarias y justifiqué cada una.
-- [ ] Generé las vistas ortogonales correctamente alineadas.
-- [ ] Configuré formato, orientación y escala de manera coherente.
-- [ ] Apliqué dimensiones generales, parciales y funcionales.
-- [ ] Evité cotas repetidas, ambiguas o innecesarias.
-- [ ] Organice las cotas fuera del contorno de las vistas.
-- [ ] El plano contiene información suficiente para fabricar la pieza.
-- [ ] Documenté errores y correcciones sin borrar decisiones iniciales.
-- [ ] Las evidencias se visualizan correctamente en GitHub.
-- [ ] Los Drawing están disponibles en Fusion Cloud con acceso docente.
-- [ ] Completé la reflexión final.
+- [ ✓] Seleccioné las vistas necesarias y justifiqué cada una.
+- [✓ ] Generé las vistas ortogonales correctamente alineadas.
+- [✓ ] Configuré formato, orientación y escala de manera coherente.
+- [✓ ] Apliqué dimensiones generales, parciales y funcionales.
+- [✓ ] Evité cotas repetidas, ambiguas o innecesarias.
+- [✓ ] Organice las cotas fuera del contorno de las vistas.
+- [✓ ] El plano contiene información suficiente para fabricar la pieza.
+- [✓ ] Documenté errores y correcciones sin borrar decisiones iniciales.
+- [✓ ] Las evidencias se visualizan correctamente en GitHub.
+- [✓ ] Los Drawing están disponibles en Fusion Cloud con acceso docente.
+- [✓ ] Completé la reflexión final.
 
 ## Cierre del Portafolio Técnico 2
 
@@ -222,11 +223,11 @@ La revisión del portafolio abarca las **semanas 6 a 10**. El plazo para complet
 
 Antes del cierre verifique:
 
-- [ ] Las fichas de las semanas 6--10 están completas en `Portafolio/semanaXX/`.
-- [ ] Las imágenes y enlaces se visualizan correctamente desde GitHub.
-- [ ] Las correcciones están documentadas sin borrar respuestas iniciales.
-- [ ] Los modelos están disponibles en Fusion Cloud con acceso docente.
-- [ ] Los últimos cambios están publicados en GitHub.
+- [✓ ] Las fichas de las semanas 6--10 están completas en `Portafolio/semanaXX/`.
+- [✓ ] Las imágenes y enlaces se visualizan correctamente desde GitHub.
+- [✓ ] Las correcciones están documentadas sin borrar respuestas iniciales.
+- [✓ ] Los modelos están disponibles en Fusion Cloud con acceso docente.
+- [✓ ] Los últimos cambios están publicados en GitHub.
 
 Commit sugerido: `S10 ejercicios Fusion Apellido Nombre`.
 
