@@ -142,35 +142,35 @@ Detalle de una zona del plano donde se aprecie la organización de las cotas.
 
 ### P4.1 · Pieza documentada
 
-- Nombre del diseño: [Respuesta]
-- Pieza de referencia: [Respuesta]
+- Nombre del diseño: [ICT401_S09_P3_Delgado_Jose]
+- Pieza de referencia: [Semana 9, P3, pieza con base, resalte, perforación y ranura.]
 
 ### P4.2 · Vistas generadas
 
 | Vista | Información que comunica | Cotas asignadas |
 |---|---|---|
-| Front | [Respuesta] | [Respuesta] |
-| Top | [Respuesta] | [Respuesta] |
-| Right | [Respuesta] | [Respuesta] |
+| Front | [Forma frontal, ancho total y alturas de la base y del resalte.] | [Forma frontal, ancho total y alturas de la base y del resalte.] |
+| Top | [Profundidad, posición de la perforación y posición de la ranura.] | [50 mm, Ø12 mm, centro X=22/Y=35 y dimensiones de la ranura] |
+| Right | [Profundidad y alturas de las características.] | [Profundidad y alturas necesarias para comprobar la geometría] |
 
 ### P4.3 · Resumen de cotas aplicadas
 
 | Tipo de dimensión | Cantidad | Ejemplo |
 |---|---|---|
-| Generales | [Respuesta] | [Respuesta] |
-| Parciales | [Respuesta] | [Respuesta] |
-| Funcionales | [Respuesta] | [Respuesta] |
+| Generales | [3] | [80 mm, 50 mm, 45 mm] |
+| Parciales | [3] | [Resalte 45 × 30 mm y altura adicional de 15 mm] |
+| Funcionales | [3] | [Ø12 mm, centro de perforación y posición de la ranura] |
 
 ### P4.4 · ¿El plano contiene información suficiente para fabricar la pieza? ¿Falta algo?
 
-[Respuesta]
+[El plano contiene las vistas ortogonales y las dimensiones principales, parciales y funcionales necesarias para comunicar la geometría de la pieza. También se incluyen las dimensiones de la perforación y la ranura. Se verificó que las cotas no estuvieran repetidas y que cada característica tuviera información suficiente para definir su tamaño y posición.]
 
 ### P4.5 · Errores encontrados y correcciones realizadas
 
 | Error detectado | Corrección aplicada | Vista afectada |
 |---|---|---|
-| [Respuesta] | [Respuesta] | [Respuesta] |
-| [Respuesta] | [Respuesta] | [Respuesta] |
+| [Algunas cotas quedaban demasiado cerca del contorno.] | [Algunas cotas quedaban demasiado cerca del contorno.] | [Front y Top] |
+| [Una dimensión podía resultar repetitiva entre vistas.] | [Se conservó solamente en la vista donde la característica se comunica con mayor claridad.] | [Front y Top] |
 
 ### Evidencias P4
 
