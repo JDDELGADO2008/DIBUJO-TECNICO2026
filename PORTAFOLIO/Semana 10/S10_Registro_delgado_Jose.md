@@ -176,7 +176,7 @@ Detalle de una zona del plano donde se aprecie la organización de las cotas.
 
 Drawing completo con vistas y cotas.
 
-![P4: Plano completo](S10_P4_PlanoCompleto_Apellido_Nombre.png)
+![P4: Plano completo](S10_P4_PlanoCompleto_delgado_jose.png)
 
 Comparación del Drawing con el modelo 3D.
 
