@@ -44,11 +44,11 @@ X = ancho, Y = profundidad, Z = altura. Trabaje en milímetros. Cuando compare v
 
 ### P1.4 · ¿Algual vista resultó redundante? ¿Cuál y por qué?
 
-[Respuesta]
+[La vista isométrica es redundante como vista técnica principal porque Front, Top y Right comunican las características necesarias de la pieza. Sin embargo, se conserva como evidencia para comparar el Drawing con el modelo 3D.]
 
 ### P1.5 · Método utilizado para generar las vistas en Fusion
 
-[Respuesta]
+[Se creó un Drawing a partir del modelo 3D en Fusion. Se utilizó Front como vista base y posteriormente se proyectaron las vistas Top y Right. Se verificó que las tres vistas conservaran la correspondencia geométrica y la alineación entre ellas.]
 
 ### Evidencias P1
 
