@@ -2,8 +2,8 @@
 
 21 al 26 de septiembre de 2026.
 
-- Estudiante: [Respuesta]
-- Grupo: [Respuesta]
+- Estudiante: [jose daniel delgado herrera]
+- Grupo: [60]
 - Carpeta o proyecto de Fusion Cloud con acceso docente: [Respuesta]
 - Modelos utilizados: `ICT401_S09_P1_Apellido_Nombre`, `ICT401_S09_P2_Apellido_Nombre`, `ICT401_S09_P3_Apellido_Nombre` u otros equivalentes.
 
@@ -21,26 +21,26 @@ X = ancho, Y = profundidad, Z = altura. Trabaje en milímetros. Cuando compare v
 
 ### P1.1 · Modelo utilizado
 
-- Nombre del diseño en Fusion: [Respuesta]
-- Pieza de referencia (semana de origen): [Respuesta]
+- Nombre del diseño en Fusion: [ICT401_S09_P3_Delgado_Jose]
+- Pieza de referencia (semana de origen): [Semana 9, P3. Pieza con base, resalte, perforación y ranura.]
 
 ### P1.2 · Características principales del modelo
 
 | Característica | Descripción | Vista(s) que la comunican |
 |---|---|---|
-| 1 | [Respuesta] | [Respuesta] |
-| 2 | [Respuesta] | [Respuesta] |
-| 3 | [Respuesta] | [Respuesta] |
-| 4 | [Respuesta] | [Respuesta] |
+| 1 | [Base rectangular de 80 mm de ancho, 50 mm de profundidad y 30 mm de altura.] | [Front, Top y Right] |
+| 2 | [Resalte superior de 45 × 30 mm con una altura adicional de 15 mm.] | [Front y Top] |
+| 3 | [Perforación circular de diámetro 12 mm, con centro ubicado en X=22 mm y Y=35 mm.] | [Top y Right] |
+| 4 | [Ranura de 12 × 16 mm ubicada hacia un extremo de la pieza, entre X=60–72 mm y Y=8–24 mm.] | [Top y Front] |
 
 ### P1.3 · Vistas seleccionadas y justificación
 
 | Vista | ¿Es necesaria? | ¿Por qué? | ¿Qué información aporta? |
 |---|---|---|---|
-| Front | [Respuesta] | [Respuesta] | [Respuesta] |
-| Top | [Respuesta] | [Respuesta] | [Respuesta] |
-| Right | [Respuesta] | [Respuesta] | [Respuesta] |
-| Otra: [nombre] | [Respuesta] | [Respuesta] | [Respuesta] |
+| Front | [si] | [Permite observar el perfil general de la pieza y la diferencia de alturas entre la base y el resalte.] | [Ancho X, alturas y forma frontal.] |
+| Top | [si] | [Permite observar la distribución de las características sobre la superficie superior.] | [Profundidad Y, posición de la perforación y posición de la ranura.] |
+| Right | [si] | [Permite comprobar la profundidad y las alturas de la pieza desde el lateral.] | [Profundidad, alturas y posición vertical de las características.] |
+| Otra: [No como vista técnica principal] | [Se utiliza para verificar visualmente el modelo 3D, pero no sustituye las vistas ortogonales.] | [Permite comprobar la correspondencia general entre el modelo y el Drawing.] |  |
 
 ### P1.4 · ¿Algual vista resultó redundante? ¿Cuál y por qué?
 
