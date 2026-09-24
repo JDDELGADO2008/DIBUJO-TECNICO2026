@@ -134,7 +134,7 @@ Captura del Drawing con las cotas aplicadas.
 
 Detalle de una zona del plano donde se aprecie la organización de las cotas.
 
-![P3: Detalle](S10_P3_Detalle_Apellido_Nombre.png)
+![P3: Detalle](S10_P3_Detalle_Delgado_Jose.png)
 
 ---
 
