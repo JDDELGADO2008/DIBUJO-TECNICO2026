@@ -66,32 +66,32 @@ Modelo 3D en orientación isométrica con nombre y ViewCube visibles.
 
 ### P2.1 · Configuración del Drawing
 
-- Formato seleccionado: [Respuesta]
-- Orientación: [Respuesta]
-- Escala: [Respuesta]
-- Justificación de cada elección: [Respuesta]
+- Formato seleccionado: [A4]
+- Orientación: [HORIZONTAL]
+- Escala: [1:1]
+- Justificación de cada elección: [Justificación de cada elección: Se seleccionó A4 porque la pieza y sus tres vistas caben con suficiente espacio para colocar las cotas. Se utilizó orientación horizontal para distribuir Front, Top y Right de manera clara. Se utilizó escala 1:1 porque permite conservar las dimensiones reales y mantener una lectura directa de la pieza.]
 
 ### P2.2 · Disposición de vistas
 
 | Vista | Posición en el Drawing | Distancia a la vista adyacente | ¿Alineada correctamente? |
 |---|---|---|---|
-| Front (base) | [Respuesta] | [Respuesta] | [Respuesta] |
-| Top | [Respuesta] | [Respuesta] | [Respuesta] |
-| Right | [Respuesta] | [Respuesta] | [Respuesta] |
+| Front (base) | [Zona central-izquierda de la hoja] | [Separación suficiente para colocar cotas] | [Sí] |
+| Top | [Encima de Front] | [Separación vertical suficiente para cotas] | [Sí] |
+| Right | [A la derecha de Front] | [Separación horizontal suficiente para cotas] | [Sí] |
 
 ### P2.3 · ¿Qué problemas de alineación o disposición detectó? ¿Cómo los resolvió?
 
-[Respuesta]
+[Inicialmente fue necesario ajustar la separación entre las vistas para evitar que las cotas ocuparan el mismo espacio que el contorno. Se reorganizaron las vistas manteniendo Top alineada verticalmente con Front y Right alineada horizontalmente con Front.]
 
 ### P2.4 · ¿La escala permite legibilidad de todas las vistas? Justifique.
 
-[Respuesta]
+[Sí. La escala 1:1 permite conservar el tamaño real de la pieza y, al utilizar un formato A4 horizontal y separar correctamente las vistas, se dispone de espacio suficiente para colocar las cotas de manera legible.]
 
 ### Evidencias P2
 
 Captura del Drawing con las tres vistas insertadas y alineadas.
 
-![P2: Plano](S10_P1_Modelo_Delgado_Jose.png)
+![P2: Plano](S10_P2_Plano_Delgado_Jose.png)
 
 ---
 
