@@ -1,1 +1,3 @@
+Soporte telefonico ajustable
+El proyecto consiste en crear un soporte ajustable para celular que permita usar el teléfono de una forma más cómoda sobre un escritorio o mesa. La idea nace porque muchas veces el celular queda acostado o en una posición incómoda y es difícil ver la pantalla mientras se estudia, trabaja o se hacen otras actividades. El soporte tendrá una base estable, una superficie para colocar el celular y un brazo que permitirá cambiar el ángulo. También tendrá un pequeño borde para evitar que el teléfono se caiga. Se harán diferentes ideas mediante croquis y se escogerá la que sea más fácil de construir y modificar. El diseño se realizará en Autodesk Fusion usando medidas que puedan cambiarse fácilmente.
 
