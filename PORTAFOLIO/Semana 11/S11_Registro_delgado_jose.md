@@ -204,9 +204,10 @@ Estas evidencias no tienen que ser capturas del espacio `Drawing`; el `Drawing` 
 
 La segunda imagen debe permitir comparar modelo y plano, no solo mostrar una pantalla genérica de Fusion.
 
-![P3: Plano con sección](S11_P3_PlanoSeccion_Apellido_Nombre.png)
+![P3: Plano con sección](S11_P3_PlanoSeccion_delgado_jose.png
+)
 
-![P3: Verificación con modelo](S11_P3_ModeloVerificacion_Apellido_Nombre.png)
+![P3: Verificación con modelo](S11_P3_ModeloVerificacion_delgado_jose.png)
 
 ## P4 — Detalle ampliado y tolerancia introductoria
 
