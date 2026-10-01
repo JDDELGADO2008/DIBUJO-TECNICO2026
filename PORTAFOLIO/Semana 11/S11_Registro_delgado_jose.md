@@ -166,8 +166,8 @@ Estas evidencias no tienen que ser capturas del espacio `Drawing`; el `Drawing` 
 - Espacio de trabajo utilizado: `Drawing`
 - Herramienta utilizada: `Section View`
 - Vista de origen: [top]
-- Tipo de corte: [Respuesta]
-- Escala: [Respuesta]
+- Tipo de corte: [vertical]
+- Escala: [1:1]
 - Identificación: [Respuesta]
 - Dirección de observación: [Respuesta]
 
@@ -175,25 +175,25 @@ Estas evidencias no tienen que ser capturas del espacio `Drawing`; el `Drawing` 
 
 | Elemento | ¿Coincide con el modelo? | Evidencia o corrección |
 |---|---|---|
-| Cavidad o agujero | [Respuesta] | [Respuesta] |
-| Ranura o escalón | [Respuesta] | [Respuesta] |
-| Contorno exterior | [Respuesta] | [Respuesta] |
-| Superficies rayadas | [Respuesta] | [Respuesta] |
-| Líneas visibles | [Respuesta] | [Respuesta] |
+| Cavidad o agujero | [Cavidad o agujero] | [Eliminar las líneas que ya no aportan información.] |
+| Ranura o escalón | [Ranura o escalón] | [Comprobar la geometría interior.] |
+| Contorno exterior | [Contorno exterior] | [Comparar con las vistas principales.] |
+| Superficies rayadas | [Superficies rayadas] | [Comprobar que solo se rayen las superficies cortadas.] |
+| Líneas visibles | [Líneas visibles] | [Revisar su correspondencia con el modelo.] |
 
 ### P3.3 · Líneas ocultas
 
-- ¿Qué líneas ocultas dejaron de ser necesarias?: [Respuesta]
-- ¿Qué líneas visibles debieron conservarse?: [Respuesta]
-- ¿Detectó alguna contradicción entre vistas?: [Respuesta]
-- ¿Cómo verificó la dirección de observación?: [Respuesta]
+- ¿Qué líneas ocultas dejaron de ser necesarias?: [: Las líneas discontinuas que representan características interiores que ahora quedan claramente visibles mediante la sección.]
+- ¿Qué líneas visibles debieron conservarse?: [Las líneas que representan los contornos y detalles exteriores importantes de la pieza.]
+- ¿Detectó alguna contradicción entre vistas?: [Se debe comprobar la correspondencia entre Front, Top, Right y la sección.]
+- ¿Cómo verificó la dirección de observación?: [Comparando las flechas del plano de corte con la geometría observada en Design.]
 
 ### P3.4 · Errores y correcciones
 
 | Error detectado | Evidencia que lo reveló | Corrección aplicada |
 |---|---|---|
-| [Respuesta] | [Respuesta] | [Respuesta] |
-| [Respuesta] | [Respuesta] | [Respuesta] |
+| [Posible desalineación de la sección.] | [Comparación entre el modelo y el Drawing.] | [Ajustar la posición de la vista.] |
+| [Líneas ocultas innecesarias.] | [Revisión de la vista seccionada.] | [Eliminar las líneas que ya no aportan información.] |
 
 ### Evidencias P3
 
