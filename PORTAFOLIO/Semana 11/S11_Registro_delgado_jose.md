@@ -2,8 +2,8 @@
 
 28 de septiembre al 3 de octubre de 2026.
 
-- Estudiante: [Respuesta]
-- Grupo: [Respuesta]
+- Estudiante: [jose daniel delgado]
+- Grupo: [60]
 - Carpeta o proyecto de Fusion Cloud con acceso docente: [Respuesta]
 - Drawing o modelo de referencia de Semana 10: [Respuesta]
 - Modelo utilizado: [Nombre del diseño]
@@ -46,25 +46,25 @@ Trabaje sobre un modelo o plano desarrollado en Semana 10. Use milímetros, orie
 
 | Característica | Vista donde aparece | ¿Se comunica claramente? | Problema detectado |
 |---|---|---|---|
-| 1 | [Respuesta] | [Respuesta] | [Respuesta] |
-| 2 | [Respuesta] | [Respuesta] | [Respuesta] |
-| 3 | [Respuesta] | [Respuesta] | [Respuesta] |
-| 4 | [Respuesta] | [Respuesta] | [Respuesta] |
+| Geometría exterior | [front] | [Sí] | [No presenta información interior completa.] |
+| Superficie superior | [Top] | [Sí] | [Algunas características interiores pueden quedar ocultas.] |
+| Superficie lateral | [Right] | [Sí] | [No permite observar todas las cavidades.] |
+| Geometría interior | [Sección] | [Sí] | [Requiere identificar correctamente el plano de corte.] |
 
 ### P1.3 · Comparación de alternativas
 
 | Alternativa | Ventaja | Limitación |
 |---|---|---|
-| Vista ordinaria | [Respuesta] | [Respuesta] |
-| Vista con líneas ocultas | [Respuesta] | [Respuesta] |
-| Vista seccionada | [Respuesta] | [Respuesta] |
+| Vista ordinaria | [Muestra la forma exterior de la pieza.] | [No permite observar directamente las características interiores.] |
+| Vista con líneas ocultas | [Permite representar elementos interiores mediante líneas discontinuas.] | [Puede producir demasiadas líneas y dificultar la interpretación.] |
+| Vista seccionada | [Permite observar directamente la geometría interior y las superficies cortadas.] | [Requiere definir correctamente el plano y la dirección de observación.] |
 
 ### P1.4 · Decisión de representación
 
-- Tipo de representación elegido: [Respuesta]
-- Vista desde la que se realizará: [Respuesta]
-- Posición aproximada del plano de corte: [Respuesta]
-- Justificación técnica: [Respuesta]
+- Tipo de representación elegido: [Corte completo, si el plano atraviesa toda la característica que se desea mostrar.]
+- Vista desde la que se realizará: [La vista que permita atravesar y mostrar con claridad la característica interior.]
+- Posición aproximada del plano de corte: [Por el centro de la cavidad, agujero o característica interior seleccionada.]
+- Justificación técnica: [Se utiliza una sección porque permite comunicar la geometría interior con mayor claridad y reducir la cantidad de líneas ocultas.]
 
 ### Evidencias P1
 
