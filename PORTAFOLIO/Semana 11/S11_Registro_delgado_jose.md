@@ -141,7 +141,7 @@ Estas evidencias no tienen que ser capturas del espacio `Drawing`; el `Drawing` 
 
 ![P2: Croquis del corte](S11_P2_CroquisCorte_DELGADO_JOSE.png)
 
-![P2: Sección identificada](S11_P2_Seccion_Apellido_Nombre.png)
+![P2: Sección identificada](S11_P2_Seccion_Delgado_JOSE.png)
 
 ## P3 — Corte o sección en Fusion
 
