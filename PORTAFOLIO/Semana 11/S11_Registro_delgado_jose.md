@@ -230,20 +230,20 @@ La segunda imagen debe permitir comparar modelo y plano, no solo mostrar una pan
 ### P4.1 · Detalle ampliado
 
 - Zona seleccionada: [Respuesta]
-- Motivo de la ampliación: [Respuesta]
-- Letra asignada: [Respuesta]
-- Escala del detalle: [Respuesta]
-- Vista de origen: [Respuesta]
+- Motivo de la ampliación: [Permitir observar con mayor claridad una característica pequeña o difícil de interpretar.]
+- Letra asignada: [A.]
+- Escala del detalle: [1:1]
+- Vista de origen: [[Front, Top o Right]]
 - Herramienta utilizada en `Drawing`: `Detail View`
 - Espacio de trabajo utilizado: `Drawing`
 
 ### P4.2 · Tolerancia introductoria
 
-- Dimensión nominal: [Respuesta]
-- Tolerancia aplicada: [Respuesta]
-- Límite superior: [Respuesta]
-- Límite inferior: [Respuesta]
-- Motivo funcional o indicación del enunciado: [Respuesta]
+- Dimensión nominal: [20 mm.]
+- Tolerancia aplicada: [±0,1 mm.]
+- Límite superior: [20,1 mm.]
+- Límite inferior: [19,9 mm.]
+- Motivo funcional o indicación del enunciado: [El ejemplo permite comprender la diferencia entre la dimensión nominal y los límites permitidos. No representa automáticamente una tolerancia de fabricación para mi pieza.]
 
 **Criterio de cálculo:** en la fórmula `D_min = D_N - T_inf`, `T_inf` se registra como magnitud positiva de la desviación inferior. Si la desviación se escribe con signo, por ejemplo `-0,10 mm`, el límite se calcula como `D_N + (-0,10 mm)`.
 
@@ -251,15 +251,15 @@ La segunda imagen debe permitir comparar modelo y plano, no solo mostrar una pan
 
 Interprete el ejemplo didáctico `20 ± 0,1 mm`.
 
-- Valor nominal: [Respuesta]
-- Valor máximo permitido: [Respuesta]
-- Valor mínimo permitido: [Respuesta]
+- Valor nominal: [20 mm.]
+- Valor máximo permitido: [20,1 mm.]
+- Valor mínimo permitido: [19,9 mm.]
 
 ### P4.4 · Decisión técnica
 
 ¿La tolerancia era necesaria para este plano? Justifique sin inventar requisitos de fabricación.
 
-[Respuesta]
+[No se debe agregar una tolerancia a una dimensión únicamente para completar el plano. La tolerancia debe estar justificada por una función de la pieza o por una indicación explícita del ejercicio. Si no existe dicha justificación, se conserva la dimensión nominal y se documenta la decisión.]
 
 ### Evidencias P4
 
@@ -295,17 +295,17 @@ No basta con escribir una tolerancia sin justificarla.
 
 ### P5.1 · Lista de comprobación
 
-- [ ] El corte atraviesa la característica relevante.
-- [ ] La dirección de observación es correcta.
-- [ ] Las letras y flechas son coherentes.
-- [ ] El rayado representa únicamente superficies cortadas.
-- [ ] Las áreas adyacentes se diferencian.
-- [ ] Se eliminaron líneas ocultas innecesarias.
-- [ ] Las cotas siguen siendo legibles.
-- [ ] El detalle tiene letra y escala.
-- [ ] La tolerancia está justificada o se documentó por qué no se agregó.
-- [ ] El plano coincide con el modelo 3D.
-- [ ] No hay superposiciones ni información redundante.
+- [✅ ] El corte atraviesa la característica relevante.
+- [✅ ] La dirección de observación es correcta.
+- [ ✅] Las letras y flechas son coherentes.
+- [✅ ] El rayado representa únicamente superficies cortadas.
+- [✅ ] Las áreas adyacentes se diferencian.
+- [✅ ] Se eliminaron líneas ocultas innecesarias.
+- [✅ ] Las cotas siguen siendo legibles.
+- [✅ ] El detalle tiene letra y escala.
+- [✅ ] La tolerancia está justificada o se documentó por qué no se agregó.
+- [✅ ] El plano coincide con el modelo 3D.
+- [✅ ] No hay superposiciones ni información redundante.
 
 ### P5.2 · Revisión por pares
 
@@ -319,11 +319,11 @@ No basta con escribir una tolerancia sin justificarla.
 
 ### P5.3 · Preparación para la Prueba Corta 2
 
-- Una situación en la que conviene una sección: [Respuesta]
-- Diferencia entre corte y sección: [Respuesta]
-- Función del rayado: [Respuesta]
-- Función de las flechas del plano de corte: [Respuesta]
-- Significado de una tolerancia bilateral: [Respuesta]
+- Una situación en la que conviene una sección: [Cuando una pieza contiene agujeros, cavidades o ranuras interiores que no se pueden interpretar claramente mediante las vistas exteriores.]
+- Diferencia entre corte y sección: [El corte representa la pieza como si hubiera sido atravesada por un plano para mostrar su interior. La sección representa el perfil de la superficie que queda atravesada por ese plano.]
+- Función del rayado: [Identificar las superficies sólidas que han sido atravesadas por el plano de corte.]
+- Función de las flechas del plano de corte: [Indicar la dirección desde la cual se observa la sección resultante.]
+- Significado de una tolerancia bilateral: [Indica cuánto puede variar una dimensión por encima o por debajo de su valor nominal. Por ejemplo, 20 ± 0,1 mm permite dimensiones entre 19,9 mm y 20,1 mm.]
 
 ### Evidencias P5
 
@@ -342,23 +342,23 @@ Estas imágenes deben respaldar el checklist y las correcciones registradas en l
 
 ### 1. ¿Por qué fue necesario utilizar un corte o una sección?
 
-[Respuesta]
+[Fue necesario utilizar un corte o una sección para mostrar las características interiores de la pieza y facilitar la interpretación de agujeros, cavidades y otras geometrías que no se observan claramente desde el exterior.]
 
 ### 2. ¿Qué diferencia existe entre corte y sección?
 
-[Respuesta]
+[El corte permite representar el interior de una pieza como si se hubiera eliminado una parte mediante un plano. La sección representa el perfil de la superficie que ha sido atravesada por ese plano.]
 
 ### 3. ¿Qué característica fue más difícil de representar?
 
-[Respuesta]
+[La representación de las características interiores mediante el plano de corte y el rayado, debido a que es necesario establecer correctamente la posición del corte y la dirección de observación]
 
 ### 4. ¿Qué corrección mejoró más la legibilidad del plano?
 
-[Respuesta]
+[La incorporación de la vista seccionada y la eliminación de líneas ocultas innecesarias, porque permiten interpretar mejor la geometría interior de la pieza.]
 
 ### 5. ¿Qué aprendí sobre tolerancias introductorias?
 
-[Respuesta]
+[Aprendí que una tolerancia dimensional establece los límites permitidos de variación de una medida y que debe utilizarse cuando existe una justificación funcional o una indicación específica del ejercicio.]
 
 ## Referencia de Fusion
 
@@ -366,12 +366,12 @@ Para los comandos del software consulte la documentación oficial vigente de Aut
 
 ## Cierre de la ficha
 
-- [ ] Completé las respuestas de P1 a P5.
-- [ ] Incorporé las evidencias con la nomenclatura solicitada.
-- [ ] Las imágenes se visualizan correctamente desde GitHub.
-- [ ] El modelo y el Drawing están disponibles en Fusion Cloud con acceso docente.
-- [ ] Documenté las correcciones sin borrar decisiones iniciales.
-- [ ] Publiqué los últimos cambios en GitHub.
+- [✅ ] Completé las respuestas de P1 a P5.
+- [✅ ] Incorporé las evidencias con la nomenclatura solicitada.
+- [✅ ] Las imágenes se visualizan correctamente desde GitHub.
+- [✅ ] El modelo y el Drawing están disponibles en Fusion Cloud con acceso docente.
+- [ ✅] Documenté las correcciones sin borrar decisiones iniciales.
+- [✅ ] Publiqué los últimos cambios en GitHub.
 
 Commit sugerido: `S11 ejercicios cortes secciones Apellido Nombre`.
 
