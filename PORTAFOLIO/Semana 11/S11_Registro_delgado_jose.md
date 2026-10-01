@@ -139,7 +139,7 @@ Un dibujo sin flechas, letras o rayado no demuestra el procedimiento completo.
 
 Estas evidencias no tienen que ser capturas del espacio `Drawing`; el `Drawing` se trabaja en P3.
 
-![P2: Croquis del corte](S11_P2_CroquisCorte_Apellido_Nombre.png)
+![P2: Croquis del corte](S11_P2_CroquisCorte_DELGADO_JOSE.png)
 
 ![P2: Sección identificada](S11_P2_Seccion_Apellido_Nombre.png)
 
