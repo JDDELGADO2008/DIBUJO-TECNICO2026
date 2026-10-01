@@ -79,7 +79,7 @@ P1 no requiere crear un `Drawing`; la decisión se registra antes de pasar a la 
 
 ![P1: Modelo](S11_P1_Modelo_Delgado_jose.png)
 
-![P1: Comparación](S11_P1_Comparacion_Apellido_Nombre.png)
+![P1: Comparación](S11_P1_Comparacion_Delgado_jose.png)
 
 ## P2 — Plano de corte y sección
 
@@ -101,32 +101,32 @@ P1 no requiere crear un `Drawing`; la decisión se registra antes de pasar a la 
 
 | Elemento | Decisión aplicada |
 |---|---|
-| Vista donde se indica el corte | [Respuesta] |
-| Posición del plano de corte | [Respuesta] |
-| Dirección de observación | [Respuesta] |
-| Identificación | [Respuesta] |
-| Tipo de corte o sección | [Respuesta] |
+| Vista donde se indica el corte | [Vista que permita identificar la característica interior.] |
+| Posición del plano de corte | [Atravesando la característica interior seleccionada.] |
+| Dirección de observación | [Indicada mediante flechas hacia la zona que se desea observar.] |
+| Identificación | [A–A] |
+| Tipo de corte o sección | [Corte completo, si corresponde a la geometría de la pieza.] |
 
 ### P2.2 · Rayado
 
-- ¿Qué superficies quedan cortadas?: [Respuesta]
-- ¿Qué superficies no deben rayarse?: [Respuesta]
-- ¿Cómo diferenció zonas o componentes adyacentes?: [Respuesta]
-- ¿Qué separación utilizó entre las líneas de rayado?: [Respuesta]
-- ¿Cómo evitó que el rayado invadiera textos o cotas?: [Respuesta]
+- ¿Qué superficies quedan cortadas?: [Las superficies sólidas que son atravesadas por el plano de corte.]
+- ¿Qué superficies no deben rayarse?: [Las cavidades, agujeros y espacios vacíos.]
+- ¿Cómo diferenció zonas o componentes adyacentes?: [Mediante una separación visual adecuada y diferentes orientaciones de rayado cuando sea necesario.]
+- ¿Qué separación utilizó entre las líneas de rayado?: [Una separación uniforme y suficiente para distinguir las líneas.]
+- ¿Cómo evitó que el rayado invadiera textos o cotas?: [Manteniendo libres las áreas de anotaciones y dimensiones.]
 
 ### P2.3 · Diferencia conceptual
 
 Explique con sus palabras la diferencia entre un corte y una sección.
 
-[Respuesta]
+[Un corte representa la pieza como si se hubiera realizado una separación mediante un plano, permitiendo observar su interior. Una sección representa específicamente la superficie o perfil que queda atravesado por el plano de corte. Ambos recursos permiten comunicar características interiores que no se observan claramente en las vistas exteriores.]
 
 ### P2.4 · Correcciones
 
 | Problema detectado | Corrección aplicada | Motivo de la corrección |
 |---|---|---|
-| [Respuesta] | [Respuesta] | [Respuesta] |
-| [Respuesta] | [Respuesta] | [Respuesta] |
+| [La dirección de observación no estaba claramente identificada.] | [Se agregaron flechas.] | [Facilitar la interpretación del corte.] |
+| [Las superficies cortadas no estaban diferenciadas.] | [Se agregó rayado.] | [Identificar las superficies atravesadas por el plano.] |
 
 ### Evidencias P2
 
@@ -162,10 +162,10 @@ Estas evidencias no tienen que ser capturas del espacio `Drawing`; el `Drawing` 
 
 ### P3.1 · Configuración
 
-- Drawing utilizado: [Respuesta]
+- Drawing utilizado: [Drawing desarrollado en Semana 10.]
 - Espacio de trabajo utilizado: `Drawing`
 - Herramienta utilizada: `Section View`
-- Vista de origen: [Respuesta]
+- Vista de origen: [top]
 - Tipo de corte: [Respuesta]
 - Escala: [Respuesta]
 - Identificación: [Respuesta]
