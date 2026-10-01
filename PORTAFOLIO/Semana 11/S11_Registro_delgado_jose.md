@@ -77,7 +77,7 @@ Una captura aislada del modelo no demuestra la comparación solicitada.
 
 P1 no requiere crear un `Drawing`; la decisión se registra antes de pasar a la documentación técnica.
 
-![P1: Modelo](S11_P1_Modelo_Apellido_Nombre.png)
+![P1: Modelo](S11_P1_Modelo_Delgado_jose.png)
 
 ![P1: Comparación](S11_P1_Comparacion_Apellido_Nombre.png)
 
