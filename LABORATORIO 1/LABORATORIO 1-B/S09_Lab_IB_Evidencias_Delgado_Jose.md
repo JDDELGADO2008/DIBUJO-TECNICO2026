@@ -173,12 +173,12 @@ La tabla siguiente registra la evaluacion aplicada exclusivamente a esta ficha y
 
 | Criterio oficial | Valor maximo | Puntaje obtenido | Observaciones de evaluacion |
 |---|---:|---:|---|
-| Interpretacion correcta del plano o conjunto de vistas | 2.00 | 2.00 | Cumple bien los elementos aplicables y verificables. |
-| Reconstruccion tridimensional coherente | 2.50 | 2.50 | Cumple bien los elementos aplicables y verificables. |
-| Aplicacion de restricciones y dimensiones | 1.50 | 1.50 | Cumple bien los elementos aplicables y verificables. |
-| Precision geometrica y correspondencia con el plano | 2.00 | 2.00 | Cumple bien los elementos aplicables y verificables. |
-| Organizacion, nomenclatura y archivo editable | 1.00 | 0.00 | Sin evidencia verificable para este criterio. |
-| Presentacion y cumplimiento del enunciado | 1.00 | 0.50 | Cumple aproximadamente la mitad de los elementos aplicables. |
+| Interpretacion correcta del plano o conjunto de vistas | 2.00 | 2.00 | Puntaje completo: no se identificaron faltantes para este criterio. |
+| Reconstruccion tridimensional coherente | 2.50 | 2.50 | Puntaje completo: no se identificaron faltantes para este criterio. |
+| Aplicacion de restricciones y dimensiones | 1.50 | 1.50 | Puntaje completo: no se identificaron faltantes para este criterio. |
+| Precision geometrica y correspondencia con el plano | 2.00 | 2.00 | Puntaje completo: no se identificaron faltantes para este criterio. |
+| Organizacion, nomenclatura y archivo editable | 1.00 | 0.00 | Puntaje 0,00: C3 esta vacia, el checklist no es valido y faltan declaraciones completas de acceso y commit. |
+| Presentacion y cumplimiento del enunciado | 1.00 | 0.50 | Puntaje parcial: C3 esta vacia, el checklist no es valido y faltan declaraciones completas de acceso y commit. |
 
 **Total obtenido: 8.50 / 10,00 %**
 
