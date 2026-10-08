@@ -2,8 +2,8 @@
 
 5 al 10 de octubre de 2026.
 
-- Estudiante: [Respuesta]
-- Grupo: [Respuesta]
+- Estudiante: [José Daniel Delgado Herrera]
+- Grupo: [60]
 - Proyecto de Fusion Cloud con acceso docente: [Respuesta]
 - Drawing de referencia de Semana 11: [Respuesta]
 - Modelo utilizado: [Nombre del diseño]
@@ -52,11 +52,11 @@ Use las referencias normativas disponibles en el aula virtual como criterios de 
 
 | Referencia | Apartado o criterio aplicado | Evidencia asociada | Resultado o limitación |
 |---|---|---|---|
-| ISO 5457 | [Respuesta] | [Nombre de imagen o captura] | [Conforme/Limitación] |
-| INTE/ISO 7200:2008 | [Respuesta] | [Nombre de imagen o captura] | [Conforme/Limitación] |
-| ISO 128-1/128-3 | [Respuesta] | [Nombre de imagen o captura] | [Conforme/Limitación] |
-| ISO 129-1 | [Respuesta] | [Nombre de imagen o captura] | [Conforme/Limitación] |
-| ISO 16792:2021 | [Respuesta] | [Nombre de imagen o captura] | [Conforme/Limitación] |
+| ISO 5457 | [Se revisó el formato, la orientación, el marco y el espacio disponible de la hoja.] | [S12_P1_DecisionFormato_delgado_jose.png] | [Conforme] |
+| INTE/ISO 7200:2008 | [Se revisó el cajetín y se completaron los datos principales del plano, como título, autor, fecha, identificación y escala.] | [S12_P2_Cajetin_Delgado_jose.png] | [Limitación] |
+| ISO 128-1/128-3 | [Se revisó la organización y alineación de las vistas y la representación del soporte.] | [S12_P2_HojaDistribucion_delgado_jose.png] | [Conforme] |
+| ISO 129-1 | [Se revisó que las cotas fueran claras, estuvieran ubicadas correctamente y pudieran leerse sin confundirse con otras líneas.] | [S12_P3_Legibilidad_delgado_jose.png] | [Conforme] |
+| ISO 16792:2021 | [Se comprobó que el modelo, el Drawing y los archivos exportados correspondieran al mismo soporte.] | [S12_P5_VerificacionModelo_delgado_jose.png] | [Conforme] |
 
 Si la plantilla o la versión de Fusion no permite mostrar un dato, escriba la limitación concreta. Las medidas propias de la actividad deben identificarse como decisiones didácticas, no como dimensiones ISO.
 
