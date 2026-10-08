@@ -80,10 +80,10 @@ Si la plantilla o la versión de Fusion no permite mostrar un dato, escriba la l
 
 ### P1.1 · Estado de referencia
 
-- Nombre del proyecto Fusion: [Respuesta]
+- Nombre del proyecto Fusion: [Soporte ajustable para celular]
 - Nombre del diseño: [Respuesta]
 - Nombre del Drawing: [Respuesta]
-- Formato actual: [Respuesta]
+- Formato actual: [A4]
 - Orientación actual: [Respuesta]
 - Unidades: [Respuesta]
 - Escala actual de la hoja o vistas: [Respuesta]
@@ -92,9 +92,9 @@ Si la plantilla o la versión de Fusion no permite mostrar un dato, escriba la l
 
 | Problema observado | Ubicación exacta en la hoja | Por qué afecta la entrega | Corrección prevista |
 |---|---|---|---|
-| [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
+| [Las vistas estan muy juntas ] | [Zona central de la hoja] | [Puede dificultar la lectura de las cotas y anotaciones] | [Separar y organizar mejor las vistas] |
+| [Algunas cotas tienen poco espacio] | [Alrededor de las vistas principales] | [Las medidas pueden confundirse con otras líneas] | [Reubicar las cotas para que sean más claras] |
+| [El cajetín ocupa espacio y no está bien integrado con la distribución] | [Parte inferior de la hoja] | [Puede reducir el espacio útil del plano] | [Organizar las vistas dejando espacio para el cajetín] |
 
 ### P1.3 · Comparación de alternativas
 
