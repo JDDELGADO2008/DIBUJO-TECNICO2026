@@ -100,12 +100,12 @@ Si la plantilla o la versión de Fusion no permite mostrar un dato, escriba la l
 
 | Alternativa | Ventaja | Limitación | ¿La selecciono? |
 |---|---|---|---|
-| [Respuesta] | [Respuesta] | [Respuesta] | [Sí/No] |
-| [Respuesta] | [Respuesta] | [Respuesta] | [Sí/No] |
+| [A4 Horizontal] | [Menor uso de espacio] | [Área reducida] | [No] |
+| [A3 Horizontal] | [Mejor distribución de vistas] | [Archivo más grande] | [Sí] |
 
-- Formato seleccionado: [Respuesta]
-- Orientación seleccionada: [Respuesta]
-- Escala inicial seleccionada: [Respuesta]
+- Formato seleccionado: [A3]
+- Orientación seleccionada: [Horizontal]
+- Escala inicial seleccionada: [1:2]
 - Justificación técnica: [Respuesta]
 - Criterio de ISO 5457 aplicado: [Respuesta]
 - ¿Qué parte de la selección es una decisión didáctica de la plantilla?: [Respuesta]
@@ -165,12 +165,12 @@ Una captura aislada del cuadro de diálogo no demuestra que el formato sea adecu
 
 | Elemento | Posición final | ¿Está alineado o relacionado correctamente? | Corrección realizada |
 |---|---|---|---|
-| Front | [Respuesta] | [Respuesta] | [Respuesta] |
-| Top | [Respuesta] | [Respuesta] | [Respuesta] |
-| Right | [Respuesta] | [Respuesta] | [Respuesta] |
-| Corte o sección | [Respuesta] | [Respuesta] | [Respuesta] |
-| Detalle | [Respuesta] | [Respuesta] | [Respuesta] |
-| Cajetín | [Respuesta] | [Respuesta] | [Respuesta] |
+| Front | [Centro] | [Sí] | [Reubicada] |
+| Top | [Centro] | [Sí] | [Ajuste de separación] |
+| Right | [Derecha] | [Sí] | [Ajuste de alineación] |
+| Corte o sección | [Inferior derecha] | [Sí] | [Reubicado] |
+| Detalle | [Superior derecha] | [Sí] | [Escala mejorada] |
+| Cajetín | [Inferior derecha] | [Sí] | [Datos completados] |
 
 ### Evidencias P2
 
@@ -207,23 +207,23 @@ Una captura aislada del cuadro de diálogo no demuestra que el formato sea adecu
 
 ### P3.1 · Control de escala
 
-- Escala antes de la revisión: [Respuesta]
-- Escala después de la revisión: [Respuesta]
-- ¿Se cambió la escala?: [Sí/No]
-- Motivo de la decisión: [Respuesta]
-- ¿La escala del cajetín coincide?: [Sí/No]
-- ¿Las cotas necesarias aparecen una sola vez, salvo indicación auxiliar?: [Sí/No]
-- ¿Las cotas se ubican en la vista más clara y evitan líneas ocultas?: [Sí/No]
+- Escala antes de la revisión: [1:2]
+- Escala después de la revisión: [1:2]
+- ¿Se cambió la escala?: [No]
+- Motivo de la decisión: [La escala inicial mantenía la legibilidad.]
+- ¿La escala del cajetín coincide?: [Sí]
+- ¿Las cotas necesarias aparecen una sola vez, salvo indicación auxiliar?: [Sí]
+- ¿Las cotas se ubican en la vista más clara y evitan líneas ocultas?: [Sí]
 
 ### P3.2 · Control de legibilidad
 
 | Elemento revisado | Problema encontrado | Corrección | Resultado verificado |
 |---|---|---|---|
-| Cotas | [Respuesta] | [Respuesta] | [Respuesta] |
-| Texto y notas | [Respuesta] | [Respuesta] | [Respuesta] |
-| Corte o sección | [Respuesta] | [Respuesta] | [Respuesta] |
-| Detalle | [Respuesta] | [Respuesta] | [Respuesta] |
-| Tolerancia | [Respuesta] | [Respuesta] | [Respuesta] |
+| Cotas | [Algunas superpuestas] | [Reubicación] | [Legibles] |
+| Texto y notas | [Texto pequeño] | [Aumento de tamaño] | [Correcto] |
+| Corte o sección | [Etiqueta poco visible] | [Reubicación] | [Visible] |
+| Detalle | [Escala reducida] | [Ajuste de vista] | [Correcto] |
+| Tolerancia | [Cercana a otra nota] | [Reubicación] | [Clara] |
 
 ### Evidencias P3
 
@@ -273,8 +273,8 @@ Si no cambió la escala, la ficha debe explicar por qué la escala inicial conse
 
 | Archivo | Comando utilizado | Unidades | Hoja/orientación | ¿Coincide con Drawing? | Corrección |
 |---|---|---|---|---|---|
-| PDF | [Respuesta] | [Respuesta] | [Respuesta] | [Sí/No] | [Respuesta] |
-| DXF | [Respuesta] | [Respuesta] | [Respuesta] | [Sí/No/No solicitado] | [Respuesta] |
+| PDF | [Output > PDF] | [mm] | [A3 Horizontal] | [Sí/] | [no se hizo ninguna] |
+| DXF | [Output > DXF] | [mm] | [A3 Horizontal] | [Sí] | [no se hizo ninguna] |
 
 ### Evidencias P4
 
@@ -341,11 +341,11 @@ Si no cambió la escala, la ficha debe explicar por qué la escala inicial conse
 
 | Criterio | Observación recibida | Corrección aplicada |
 |---|---|---|
-| Formato y orientación | [Respuesta] | [Respuesta] |
-| Cajetín | [Respuesta] | [Respuesta] |
-| Escala y legibilidad | [Respuesta] | [Respuesta] |
-| Distribución de vistas | [Respuesta] | [Respuesta] |
-| PDF/DXF e impresión | [Respuesta] | [Respuesta] |
+| Formato y orientación | [Correcto] | [Sin cambios] |
+| Cajetín | [Faltaba revisión] | [Agregada Rev. A] |
+| Escala y legibilidad | [Cotas cercanas] | [Reubicadas] |
+| Distribución de vistas | [Mejorar separación] | [Ajustada] |
+| PDF/DXF e impresión | [Conforme] | [Sin cambios] |
 
 ### Evidencias P5
 
@@ -368,27 +368,27 @@ Si no cambió la escala, la ficha debe explicar por qué la escala inicial conse
 
 ### 1. ¿Por qué el formato seleccionado es adecuado para este plano?
 
-[Respuesta]
+[El formato A3 horizontal proporciona suficiente espacio para organizar las vistas principales, el corte, el detalle y las cotas de forma clara y legible.]
 
 ### 2. ¿Qué información del cajetín identifica o contextualiza el plano?
 
-[Respuesta]
+[Incluye el código del documento, nombre de la pieza, autor, fecha de emisión, unidades, escala y revisión.]
 
 ### 3. ¿Qué problema de escala o legibilidad detecté y cómo lo resolví?
 
-[Respuesta]
+[Se detectó superposición de cotas en la vista frontal. Se reubicaron las anotaciones manteniendo la misma escala para mejorar la lectura.]
 
 ### 4. ¿Qué diferencia encontré entre el Drawing y la salida exportada?
 
-[Respuesta]
+[No se detectaron diferencias significativas entre el Drawing y el PDF exportado.]
 
 ### 5. ¿Cómo comprobé que la impresión no deformara ni recortara el plano?
 
-[Respuesta]
+[Mediante la previsualización de impresión verificando formato de papel, orientación, márgenes y escala.]
 
 ### 6. ¿Qué corrección mejoró más la calidad del plano?
 
-[Respuesta]
+[La redistribución de las cotas y la organización de las vistas mejoraron significativamente la legibilidad general.]
 
 ## Cierre de la ficha
 
