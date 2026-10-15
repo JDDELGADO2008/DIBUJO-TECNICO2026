@@ -5,7 +5,7 @@
 - Estudiante: jose daniel delgado 
 - Grupo: 60
 - Proyecto de Fusion Cloud con acceso docente: [Nombre del proyecto compartido por el docente]
-- Nombre del diseño de ensamblaje: ICT401_S13_Ensamblaje_Sury_Downing
+- Nombre del diseño de ensamblaje: ICT401_S13_Ensamblaje_jose_delgado
 - Piezas base utilizadas: Base, soporte vertical y eje o pasador.
 - Fecha de trabajo de laboratorio: [Fecha de realización]
 
