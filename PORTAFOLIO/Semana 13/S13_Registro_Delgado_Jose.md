@@ -2,7 +2,7 @@
 
 12 al 17 de octubre de 2026.
 
-- Estudiante: Sury Downing
+- Estudiante: jose daniel delgado 
 - Grupo: 60
 - Proyecto de Fusion Cloud con acceso docente: [Nombre del proyecto compartido por el docente]
 - Nombre del diseño de ensamblaje: ICT401_S13_Ensamblaje_Sury_Downing
@@ -11,23 +11,23 @@
 
 ## Instrucciones
 
-Se utilizaron las piezas base de la práctica para construir un ensamblaje básico en Fusion. Se identificaron los componentes, se establecieron relaciones entre ellos y se revisaron las posibles interferencias geométricas.
+Se emplearon las piezas base de la práctica para crear un ensamblaje sencillo en Fusion. Se reconocieron los componentes, se definieron relaciones entre ellos y se comprobaron posibles interferencias geométricas.
 
 ## Conjunto de trabajo
 
-Las dimensiones nominales utilizadas son una base de 100 × 70 × 10 mm, un soporte de 60 mm de ancho, 70 mm de alto y 40 mm de fondo, con un alojamiento pasante de diámetro 16 mm, y un pasador de diámetro 16 × 80 mm.
+Las medidas nominales empleadas corresponden a una base de 100 × 70 × 10 mm, un soporte de 60 mm de ancho, 70 mm de alto y 40 mm de profundidad, con un orificio pasante de 16 mm de diámetro, y un pasador de 16 × 80 mm.
 
 ### Posicionamiento exacto
 
-El soporte se coloca centrado sobre la base, con márgenes laterales de 20 mm y márgenes frontal y posterior de 15 mm. La cara inferior del soporte coincide con la cara superior de la base y ambos componentes se relacionan mediante una unión rígida.
+El soporte se ubica centrado encima de la base, con márgenes laterales de 20 mm y márgenes frontal y posterior de 15 mm. La superficie inferior del soporte coincide con la superficie superior de la base y ambos componentes se relacionan mediante una unión rígida.
 
-El pasador se alinea con el centro del alojamiento, ubicado a 40 mm de la cara inferior del soporte y a 30 mm de cada lado. Se utiliza una unión revoluta para permitir el giro del pasador.
+El pasador se ajusta al centro del alojamiento, ubicado a 40 mm de la cara inferior del soporte y a 30 mm de cada lado. Se utiliza una unión revoluta para permitir el giro del pasador.
 
 | Componente | Nombre en Fusion | Función dentro del conjunto | Observación inicial |
 |---|---|---|---|
 | Base | Base | Sostener y servir de referencia para el conjunto. | Placa maciza de 100 × 70 × 10 mm. |
 | Soporte vertical | Soporte vertical | Sostener el pasador y mantener su posición. | Tiene un alojamiento pasante de diámetro 16 mm. |
-| Eje o pasador | Pasador | Permitir un movimiento de giro alrededor de su eje. | Cilindro de diámetro 16 mm y longitud 80 mm. |
+| Eje o pasador | Pasador | Facilitar el giro alrededor de su propio eje. | Cilindro de diámetro 16 mm y longitud 80 mm. |
 
 ## Comandos bilingües de Fusion
 
@@ -46,11 +46,11 @@ El pasador se alinea con el centro del alojamiento, ubicado a 40 mm de la cara i
 
 ### Diagnóstico
 
-- ¿Qué pieza funcionará como base y por qué?: La base maciza, porque sirve como referencia fija y sostiene los demás componentes.
-- ¿Qué superficies de la base y del soporte podrían entrar en contacto?: La cara superior de la base y la cara inferior del ala del soporte.
-- ¿Qué eje o alojamiento utilizará el pasador?: El alojamiento pasante de diámetro 16 mm del soporte vertical.
-- ¿Qué movimiento estaba libre antes de aplicar relaciones?: El soporte podía trasladarse en tres direcciones y girar alrededor de tres ejes.
-- ¿Qué orientación inicial seleccionó y por qué?: Se colocó el soporte vertical sobre la base, con el ala inferior apoyada y centrada, para respetar la posición del conjunto de referencia.
+- ¿Qué pieza funcionará como base y por qué?: La base sólida, ya que funciona como referencia fija y soporta las otras piezas.
+- ¿Qué superficies de la base y del soporte podrían entrar en contacto?: La superficie superior de la base y la parte inferior del ala del soporte.
+- ¿Qué eje o alojamiento utilizará el pasador?: El orificio pasante de 16 mm de diámetro del soporte vertical.
+- ¿Qué movimiento estaba libre antes de aplicar relaciones?: El soporte podía desplazarse en tres direcciones y rotar alrededor de tres ejes.
+- ¿Qué orientación inicial seleccionó y por qué?: Se ubicó el soporte vertical encima de la base, apoyando y centrando el ala inferior para mantener la disposición del conjunto de referencia.
 
 ### Estado inicial
 
@@ -76,10 +76,10 @@ S13_PiezasBase_Downing_Sury.png: captura del ensamblaje con la base y el soporte
 | 2 | Eje del pasador y alojamiento del soporte. | Traslaciones que separen el pasador de su eje y giros que cambien la alineación. | Giro del pasador alrededor de su propio eje. | El pasador queda alineado con el alojamiento y puede girar. |
 
 - Comando o herramienta utilizada: Ensamblar > Unión (Joint), con los tipos Rigid y Revolute.
-- ¿Por qué esa relación representa la intención del conjunto?: La unión rígida mantiene el soporte fijo sobre la base, mientras que la unión revoluta permite el giro del pasador sin separarlo de su alojamiento.
+- ¿Por qué esa relación representa la intención del conjunto?: La relación rígida deja el soporte inmóvil sobre la base, mientras que la unión revoluta hace posible que el pasador gire sin salir de su alojamiento.
 - ¿La orientación del soporte quedó correcta?: Sí, cuando el soporte está vertical, centrado y apoyado sobre la cara superior de la base.
 - ¿Qué movimiento debe conservar el eje?: El giro alrededor de su propio eje.
-- ¿Qué movimiento inesperado observó y cómo lo corrigió?: Si el soporte queda invertido o el pasador desalineado, se edita la unión y se corrige su orientación mediante Flip o el ajuste de su origen.
+- ¿Qué movimiento inesperado observó y cómo lo corrigió?: Si el soporte aparece al revés o el pasador no está alineado, se modifica la unión y se ajusta su orientación con Flip o cambiando su origen.
 
 ### Evidencia L2
 
@@ -91,9 +91,9 @@ S13_Relaciones_Downing_Sury.png: captura del navegador de componentes y las unio
 - Componentes comparados: Soporte vertical y pasador; también se revisa la base como parte del conjunto.
 - ¿Se encontró una interferencia?: Debe registrarse según el resultado mostrado por Fusion. Si no aparece ninguna, se realiza una prueba controlada en una copia del diseño.
 - Ubicación de la condición: En la zona de contacto entre el pasador y el alojamiento del soporte, si el análisis detecta una superposición.
-- ¿Se trata de interferencia, contacto previsto o separación intencional?: El contacto entre las superficies de apoyo de la base y el soporte es previsto. Una penetración no deseada entre componentes constituye una interferencia.
-- Causa probable: Una posición incorrecta, una desalineación de los ejes o una relación mal definida.
-- ¿Qué efecto tendría sobre el funcionamiento del conjunto?: Podría impedir el giro del pasador o provocar una posición incorrecta de los componentes.
+- ¿Se trata de interferencia, contacto previsto o separación intencional?: El contacto entre las superficies de apoyo de la base y el soporte es intencional. Si un componente se introduce de forma no deseada en otro, existe una interferencia.
+- Causa probable: Una ubicación equivocada, ejes desalineados o una relación configurada incorrectamente.
+- ¿Qué efecto tendría sobre el funcionamiento del conjunto?: Esto podría bloquear el giro del pasador o dejar las piezas en una posición inadecuada.
 
 | Componente A | Componente B | Zona revisada | Resultado | Evidencia |
 |---|---|---|---|---|
@@ -147,19 +147,19 @@ S13_Correccion_Downing_Sury.png: captura comparativa del estado problemático y 
 
 1. ¿Qué diferencia encontró entre insertar piezas y construir un ensamblaje con relaciones?
 
-Insertar piezas permite colocarlas en el diseño, pero las relaciones definen cómo se conectan y qué movimientos pueden realizar.
+Insertar piezas sirve para agregarlas al diseño, mientras que las relaciones determinan cómo se unen y cuáles movimientos pueden efectuar.
 
 2. ¿Qué relación fue más difícil de definir y por qué?
 
-La unión revoluta, porque requiere alinear correctamente el eje del pasador con el centro del alojamiento y permitir únicamente el giro esperado.
+La unión revoluta, ya que hay que hacer coincidir el eje del pasador con el centro del alojamiento y dejar libre solamente el giro previsto.
 
 3. ¿Cómo distinguió una interferencia de un contacto previsto?
 
-Mediante la herramienta Interference de Fusion y la revisión de las superficies. El contacto previsto corresponde al apoyo entre piezas, mientras que una interferencia implica una superposición no deseada de volúmenes.
+Usé la herramienta Interference de Fusion y revisé las superficies. El contacto previsto ocurre cuando las piezas se apoyan entre sí; una interferencia, en cambio, significa que sus volúmenes se superponen de manera no deseada.
 
 4. ¿Qué comprobará en Semana 14 antes de generar una vista explosionada o una lista de componentes?
 
-Comprobaré que los componentes estén identificados, las relaciones funcionen correctamente, el pasador conserve su movimiento, no existan interferencias sin justificar y el ensamblaje esté guardado.
+Verificaré que las piezas estén identificadas, que las relaciones funcionen bien, que el pasador mantenga su movimiento, que no haya interferencias injustificadas y que el ensamblaje se encuentre guardado.
 
 ## Revisión docente
 
