@@ -109,7 +109,7 @@ El pasador se ajusta al centro del alojamiento, ubicado a 40 mm de la cara infer
 
 `S13_Interferencia_Apellido_Nombre.png`: captura del análisis o de la zona problemática, con los componentes involucrados identificables.
 
-![L3: interferencia](S13_Interferencia_Apellido_Nombre.png)
+![L3: interferencia](S13_Interferencia_Delgado_jose.png)
 
 ## L4 — Corrección, verificación y cierre
 
