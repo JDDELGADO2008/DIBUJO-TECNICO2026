@@ -66,7 +66,7 @@ El pasador se ajusta al centro del alojamiento, ubicado a 40 mm de la cara infer
 
 `S13_PiezasBase_Apellido_Nombre.png`: captura del ensamblaje con la base y el soporte visibles, el navegador de componentes abierto y los nombres identificables.
 
-![L1: piezas base](S13_PiezasBase_Apellido_Nombre.png)
+![L1: piezas base](S13_PiezasBase_delgado_jose.png)
 
 ## L2 — Relaciones entre componentes
 
