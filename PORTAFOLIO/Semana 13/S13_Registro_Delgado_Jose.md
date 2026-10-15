@@ -64,7 +64,7 @@ El pasador se ajusta al centro del alojamiento, ubicado a 40 mm de la cara infer
 
 ### Evidencia L1
 
-S13_PiezasBase_Downing_Sury.png: captura del ensamblaje con la base y el soporte visibles, el navegador abierto y los nombres identificables.
+S13_PiezasBase_delgado_jose.png: captura del ensamblaje con la base y el soporte visibles, el navegador abierto y los nombres identificables.
 
 ## L2 — Relaciones entre componentes
 
@@ -83,7 +83,7 @@ S13_PiezasBase_Downing_Sury.png: captura del ensamblaje con la base y el soporte
 
 ### Evidencia L2
 
-S13_Relaciones_Downing_Sury.png: captura del navegador de componentes y las uniones aplicadas, mostrando la posición del soporte y el pasador.
+S13_Relaciones_delgado_jose.png: captura del navegador de componentes y las uniones aplicadas, mostrando la posición del soporte y el pasador.
 
 ## L3 — Revisión de interferencias
 
@@ -101,7 +101,7 @@ S13_Relaciones_Downing_Sury.png: captura del navegador de componentes y las unio
 
 ### Evidencia L3
 
-S13_Interferencia_Downing_Sury.png: captura del análisis de interferencias, con los componentes involucrados identificables y el resultado visible.
+S13_Interferencia_delgado_jose.png: captura del análisis de interferencias, con los componentes involucrados identificables y el resultado visible.
 
 ## L4 — Corrección, verificación y cierre
 
@@ -115,7 +115,7 @@ S13_Interferencia_Downing_Sury.png: captura del análisis de interferencias, con
 - ¿La base continúa estable?: Sí, si permanece fijada mediante Ground.
 - ¿El soporte conserva su orientación?: Sí, si permanece centrado y unido rígidamente a la base.
 - ¿El eje conserva el movimiento esperado?: Sí, si gira alrededor de su eje sin trasladarse.
-- Versión o nombre final en Fusion Cloud: ICT401_S13_Ensamblaje_Sury_Downing.
+- Versión o nombre final en Fusion Cloud: ICT401_S13_Ensamblaje_jose_delgado.
 
 | Comprobación final | Resultado | Evidencia o explicación |
 |---|---|---|
@@ -127,7 +127,7 @@ S13_Interferencia_Downing_Sury.png: captura del análisis de interferencias, con
 
 ### Evidencia L4
 
-S13_Correccion_Downing_Sury.png: captura comparativa del estado problemático y el corregido, ambos etiquetados.
+S13_Correccion_delgado_jose.png: captura comparativa del estado problemático y el corregido, ambos etiquetados.
 
 ## Checklist de cierre
 
