@@ -135,7 +135,10 @@ El pasador se ajusta al centro del alojamiento, ubicado a 40 mm de la cara infer
 
 ### Evidencia L4
 
-S13_Correccion_delgado_jose.png: captura comparativa del estado problemático y el corregido, ambos etiquetados.
+
+`S13_Correccion_Apellido_Nombre.png`: captura comparativa o lámina con el estado problemático y el estado corregido, ambos etiquetados.
+
+![L4: corrección](S13_Correccion_Apellido_Nombre.png)
 
 ## Checklist de cierre
 
