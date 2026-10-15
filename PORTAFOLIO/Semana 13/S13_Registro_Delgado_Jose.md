@@ -88,7 +88,7 @@ El pasador se ajusta al centro del alojamiento, ubicado a 40 mm de la cara infer
 
 `S13_Relaciones_Apellido_Nombre.png`: captura del navegador de componentes y de la relación aplicada, con el conjunto orientado para leer la posición del soporte y del eje.
 
-![L2: relaciones](S13_Relaciones_Apellido_Nombre.png)
+![L2: relaciones](S13_Relaciones_delgado_jose.png)
 
 
 ## L3 — Revisión de interferencias
