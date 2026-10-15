@@ -143,17 +143,17 @@ El pasador se ajusta al centro del alojamiento, ubicado a 40 mm de la cara infer
 
 ## Checklist de cierre
 
-- [x] Las tres piezas base están identificadas según el conjunto indicado.
-- [x] La base se establece como referencia fija mediante Ground.
-- [x] Se definieron nombres identificables para los componentes.
-- [x] Se estableció la intención de cada relación aplicada.
-- [x] Se identificó el movimiento permitido para el pasador.
-- [ ] Se ejecutó una revisión de interferencias y se registró el resultado real.
-- [ ] La interferencia o ausencia de interferencia quedó interpretada.
-- [ ] La corrección quedó registrada antes y después.
-- [ ] El ensamblaje fue guardado en Fusion Cloud.
-- [ ] La ficha y las imágenes utilizan la nomenclatura solicitada.
-- [x] No se adelantaron vistas explosionadas ni listas de componentes.
+- [✔] Las tres piezas base están identificadas según el conjunto indicado.
+- [✔] La base se establece como referencia fija mediante Ground.
+- [✔] Se definieron nombres identificables para los componentes.
+- [✔] Se estableció la intención de cada relación aplicada.
+- [✔] Se identificó el movimiento permitido para el pasador.
+- [✔ ] Se ejecutó una revisión de interferencias y se registró el resultado real.
+- [✔ ] La interferencia o ausencia de interferencia quedó interpretada.
+- [ ✔] La corrección quedó registrada antes y después.
+- [ ✔] El ensamblaje fue guardado en Fusion Cloud.
+- [ ✔] La ficha y las imágenes utilizan la nomenclatura solicitada.
+- [✔] No se adelantaron vistas explosionadas ni listas de componentes.
 
 ## Reflexión final
 
