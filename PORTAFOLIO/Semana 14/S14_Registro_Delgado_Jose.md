@@ -71,7 +71,7 @@ Las vistas pueden distribuirse en varias hojas, pero deben permanecer dentro del
 | Estado inicial del ensamblaje | Ensamblaje completo en el espacio Diseño > Ensamblaje; el Browser muestra 3 componentes enlazados (no cuerpos sueltos): `ICT401_S13_01_Base_10C…`, `ICT401_S13_02_Soporte_…` y `ICT401_S13_03_Pasador_…`. Cotas visibles en el modelo: Ø16,00 (pasador), 30,00 y 40,00 (soporte). |
 
 **Captura del conjunto antes de crear la vista explosionada:**
-![Conjunto inicial de la Semana 13](evidencias/S14_E1_Conjunto_Inicial.png)
+![Conjunto inicial de la Semana 13](S14_E1_Conjunto_Inicial.png)
 
 | Análisis de referencia | Registro |
 |---|---|
