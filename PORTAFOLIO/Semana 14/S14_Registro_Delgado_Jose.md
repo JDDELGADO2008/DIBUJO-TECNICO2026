@@ -40,7 +40,7 @@ La entrega debe corresponder a **un único Drawing de Fusion**. Registre aquí c
 | Lista de componentes | Hoja 1, esquina superior derecha ("Lista de piezas") | [✓] |
 | Globos o números de referencia | Hoja 1, debajo de la vista (globos 3, 2 y 1) | [✓] |
 | Cajetín e identificación del conjunto | Hoja 1, esquina inferior derecha (Sheet 1/2) | [✓] |
-| Nombre y versión del modelo de origen | `ICT401_S13_Ensamblaje_jose_delgado` (nombre en el cajetín; la plantilla no tiene campo de versión) | [✓] |
+| Nombre y versión del modelo de origen | `ICT401_S13_Ensamblaje_jose_delgado`  | [✓] |
 
 Las vistas pueden distribuirse en varias hojas, pero deben permanecer dentro del mismo Drawing. No entregue la vista explosionada y las vistas ortogonales como documentos independientes.
 
