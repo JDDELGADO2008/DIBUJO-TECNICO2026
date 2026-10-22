@@ -91,10 +91,10 @@ Las vistas pueden distribuirse en varias hojas, pero deben permanecer dentro del
 
 | Orden | Acción | Componente | Referencia o contacto | Dirección | Función comunicada | Comprobado |
 |---:|---|---|---|---|---|:---:|
-| 1 | Montar | Base (se coloca primero) | Superficie de apoyo | — (referencia fija) | Sostiene el conjunto | [ ] |
-| 2 | Montar | Soporte (se monta sobre la Base) | Cara de contacto Soporte–Base | Vertical | Apoyo del Soporte sobre la Base | [ ] |
-| 3 | Montar | Pasador (se inserta al final) | Alojamiento del Soporte | Siguiendo el eje del pasador | Unión/guía en el alojamiento | [ ] |
-| 4 | Retirar | Pasador (primero al desmontar) | Alojamiento del Soporte | Sentido inverso del eje | Confirma el orden inverso de desmontaje | [ ] |
+| 1 | Montar | Base (se coloca primero) | Superficie de apoyo | — (referencia fija) | Sostiene el conjunto | [✓] |
+| 2 | Montar | Soporte (se monta sobre la Base) | Cara de contacto Soporte–Base | Vertical | Apoyo del Soporte sobre la Base | [✓] |
+| 3 | Montar | Pasador (se inserta al final) | Alojamiento del Soporte | Siguiendo el eje del pasador | Unión/guía en el alojamiento | [✓] |
+| 4 | Retirar | Pasador (primero al desmontar) | Alojamiento del Soporte | Sentido inverso del eje | Confirma el orden inverso de desmontaje | [✓] |
 
 | Decisión | Respuesta |
 |---|---|
@@ -104,9 +104,9 @@ Las vistas pueden distribuirse en varias hojas, pero deben permanecer dentro del
 
 | Orden | Componente | Dirección o referencia de separación | Razón funcional | Distancia aproximada | Comprobado |
 |---:|---|---|---|---:|---|
-| 1 | Pasador | Siguiendo su eje, hacia afuera del alojamiento | Es lo primero que se retira y hace visible su relación con el alojamiento |  40 mm  | [ ] |
-| 2 | Soporte | Vertical, hacia arriba respecto a la Base | Muestra las superficies de contacto con la Base |   60 mm  | [ ] |
-| 3 | Base | Sin desplazamiento (referencia) | Mantiene la lectura de posición de las demás piezas | 0 mm | [ ] |
+| 1 | Pasador | Siguiendo su eje, hacia afuera del alojamiento | Es lo primero que se retira y hace visible su relación con el alojamiento |  40 mm  | [✓] |
+| 2 | Soporte | Vertical, hacia arriba respecto a la Base | Muestra las superficies de contacto con la Base |   60 mm  | [✓] |
+| 3 | Base | Sin desplazamiento (referencia) | Mantiene la lectura de posición de las demás piezas | 0 mm | [✓] |
 | 4 | — | — | — | — | [ ] |
 
 | Pregunta de análisis | Respuesta |
@@ -138,10 +138,10 @@ Las vistas pueden distribuirse en varias hojas, pero deben permanecer dentro del
 | Distancia o posición | Escribí la distancia en el cuadro de transformación y activé Show Trail Lines. | Separación suficiente y proporcional, sin ocultar piezas. | `S14_E2_Vista_Explosionada.png` |
 | Captura de posición / storyboard | Guardé el Storyboard y capturé la pantalla tras revisar desde otra orientación. | Posición final e intermedia registradas. | `S14_E2_Posicion_Intermedia.png` |
 
-**¿Se modificó alguna geometría?** Sí [ ] No [x] <br>
-**¿Se capturó la posición o el storyboard?** Sí [x] No [ ]
+**¿Se modificó alguna geometría?** Sí [ ] No [✓] <br>
+**¿Se capturó la posición o el storyboard?** Sí [✓] No [ ]
 
-**¿Las líneas de trayectoria se distinguen de contornos, ejes y líneas ocultas?** Sí [x] No [ ]
+**¿Las líneas de trayectoria se distinguen de contornos, ejes y líneas ocultas?** Sí [✓] No [ ]
 
 ## Lección 3. Lista de componentes y rotulación
 
@@ -149,9 +149,9 @@ Las vistas pueden distribuirse en varias hojas, pero deben permanecer dentro del
 
 | Ítem | Identificador visible | Nombre en la lista (N.º de pieza) | Cantidad | Componente correspondiente | Verificado |
 |---:|---|---|---:|---|---|
-| 1 | Globo 1 | 2026-10-14-09-13-28-033 | 1 | Base (`ICT401_S13_01_Base_10C…`) | [x] |
-| 2 | Globo 2 | 2026-10-14-09-25-38-873 | 1 | Soporte (`ICT401_S13_02_Soporte_…`) | [x] |
-| 3 | Globo 3 | 2026-10-14-09-36-29-490 | 1 | Pasador (`ICT401_S13_03_Pasador_…`) | [x] |
+| 1 | Globo 1 | 2026-10-14-09-13-28-033 | 1 | Base (`ICT401_S13_01_Base_10C…`) | [✓] |
+| 2 | Globo 2 | 2026-10-14-09-25-38-873 | 1 | Soporte (`ICT401_S13_02_Soporte_…`) | [✓] |
+| 3 | Globo 3 | 2026-10-14-09-36-29-490 | 1 | Pasador (`ICT401_S13_03_Pasador_…`) | [✓] |
 
 ![Lista básica de componentes e identificadores](evidencias/S14_E3_Lista_Componentes.png)
 
@@ -167,27 +167,27 @@ Las vistas pueden distribuirse en varias hojas, pero deben permanecer dentro del
 
 | Criterio | Sí | No | Corrección necesaria |
 |---|:---:|:---:|---|
-| La vista muestra todos los componentes importantes | [x] | [ ] | |
-| La separación sigue una lógica de montaje | [x] | [ ] | |
-| El mismo Drawing contiene Front, Top y Right del ensamble normal | [x] | [ ] |  |
-| Las vistas ortogonales están organizadas en primer diedro europeo | [x] | [ ] | |
-| El mismo Drawing contiene también la vista explosionada | [x] | [ ] |  |
-| `Top` está debajo de `Front` y `Right` a la izquierda de `Front` | [x] | [ ] | |
-| Las vistas relacionadas están alineadas y suficientemente separadas | [x] | [ ] | |
-| La vista explosionada, lista y globos tienen una zona propia | [x] | [ ] | |
-| Ningún elemento invade el cajetín | [x] | [ ] | |
-| Se comprobó el símbolo o configuración de primer diedro | [x] | [ ] | |
-| Los identificadores se leen con claridad | [x] | [ ] | |
-| La lista coincide con el modelo | [x] | [ ] | |
-| Los contornos, ejes, ocultas y trayectorias se distinguen | [x] | [ ] | |
-| Los globos o identificadores coinciden una sola vez con la lista | [x] | [ ] | |
-| La hoja, escala, orientación e identificación son coherentes | [x] | [ ] | |
-| El modelo, Storyboard y Drawing corresponden a la misma versión | [x] | [ ] | |
-| La orientación facilita la interpretación | [x] | [ ] | |
-| La escala permite leer textos y componentes | [x] | [ ] | |
-| No hay superposiciones innecesarias | [ ] | [x] | Las líneas de referencia de los globos 2 y 3 son largas y atraviesan parte de la vista; acortarlas o reubicar los globos. |
-| El título y los datos del conjunto están completos | [ ] | [x] | Faltan Rev., Date of issue y DWG No. en el cajetín; la fecha está en el campo "Created by". |
-| La versión del modelo, Storyboard, Drawing y evidencias coincide | [x] | [ ] | |
+| La vista muestra todos los componentes importantes | [✓] | [ ] | |
+| La separación sigue una lógica de montaje | [✓] | [ ] | |
+| El mismo Drawing contiene Front, Top y Right del ensamble normal | [✓] | [ ] |  |
+| Las vistas ortogonales están organizadas en primer diedro europeo | [✓] | [ ] | |
+| El mismo Drawing contiene también la vista explosionada | [✓] | [ ] |  |
+| `Top` está debajo de `Front` y `Right` a la izquierda de `Front` | [✓] | [ ] | |
+| Las vistas relacionadas están alineadas y suficientemente separadas | [✓] | [ ] | |
+| La vista explosionada, lista y globos tienen una zona propia | [✓] | [ ] | |
+| Ningún elemento invade el cajetín | [✓] | [ ] | |
+| Se comprobó el símbolo o configuración de primer diedro | [✓] | [ ] | |
+| Los identificadores se leen con claridad | [✓] | [ ] | |
+| La lista coincide con el modelo | [✓] | [ ] | |
+| Los contornos, ejes, ocultas y trayectorias se distinguen | [✓] | [ ] | |
+| Los globos o identificadores coinciden una sola vez con la lista | [✓] | [ ] | |
+| La hoja, escala, orientación e identificación son coherentes | [✓] | [ ] | |
+| El modelo, Storyboard y Drawing corresponden a la misma versión | [✓] | [ ] | |
+| La orientación facilita la interpretación | [✓] | [ ] | |
+| La escala permite leer textos y componentes | [✓] | [ ] | |
+| No hay superposiciones innecesarias | [ ] | [✓] | Las líneas de referencia de los globos 2 y 3 son largas y atraviesan parte de la vista; acortarlas o reubicar los globos. |
+| El título y los datos del conjunto están completos | [ ] | [✓] | Faltan Rev., Date of issue y DWG No. en el cajetín; la fecha está en el campo "Created by". |
+| La versión del modelo, Storyboard, Drawing y evidencias coincide | [✓] | [ ] | |
 
 **Archivo o captura de la documentación final:** `ICT401_S13_Ensamblaje_jose_delgado Dibujo` <br>
 ![Documentación final del conjunto](evidencias/S14_E4_Documentacion_Final.png)
@@ -223,18 +223,18 @@ Las vistas pueden distribuirse en varias hojas, pero deben permanecer dentro del
 
 | Evidencia | Nombre o ruta del archivo | Completa | Observaciones |
 |---|---|:---:|---|
-| Archivo o enlace verificable del conjunto en Fusion | `ICT401_S13_Ensamblaje_jose_delgado` | [x] | |
+| Archivo o enlace verificable del conjunto en Fusion | `ICT401_S13_Ensamblaje_jose_delgado` | [✓] | |
 | Vista explosionada | `evidencias/S14_E2_Vista_Explosionada.png` | [ ] | Pendiente: crear el Storyboard en Animation y capturar |
 | Lista básica de componentes | `evidencias/S14_E3_Lista_Componentes.png` | [ ] | |
 | Documentación del conjunto | `evidencias/S14_E4_Documentacion_Final.png` | [ ] | |
 | Captura del estado inicial | `evidencias/S14_E1_Conjunto_Inicial.png` | [ ] | Captura del ensamblaje en Diseño > Ensamblaje disponible |
-| Tabla y justificación del componente de referencia | Sección "Lección 1, 1. Estado inicial" de esta ficha | [x] | |
-| Plan de montaje y separación de la Lección 1 | Sección "Lección 1, 3. Plan de montaje y separación" de esta ficha | [x] | |
+| Tabla y justificación del componente de referencia | Sección "Lección 1, 1. Estado inicial" de esta ficha | [✓] | |
+| Plan de montaje y separación de la Lección 1 | Sección "Lección 1, 3. Plan de montaje y separación" de esta ficha | [✓] | |
 | Registro de la dificultad o duda comprobada | Sección "Lección 1, 3" y sección 7 de esta ficha | [x] | |
 | Capturas del proceso o de las correcciones | `evidencias/` | [ ] | |
 | Registro de la posición o storyboard | `evidencias/S14_E2_Posicion_Intermedia.png` | [ ] | |
-| Ficha completa y nombrada correctamente | `S14_Registro_Delgado_Jose.md` | [x] | |
-| Revisión de la rúbrica de la Fase 3 | Sección 6 de esta ficha | [x] | |
+| Ficha completa y nombrada correctamente | `S14_Registro_Delgado_Jose.md` | [✓] | |
+| Revisión de la rúbrica de la Fase 3 | Sección 6 de esta ficha | [✓] | |
 
 ### 10. Cierre
 
