@@ -230,7 +230,7 @@ Las vistas pueden distribuirse en varias hojas, pero deben permanecer dentro del
 | Captura del estado inicial | `evidencias/S14_E1_Conjunto_Inicial.png` | [ ] | Captura del ensamblaje en Diseño > Ensamblaje disponible |
 | Tabla y justificación del componente de referencia | Sección "Lección 1, 1. Estado inicial" de esta ficha | [✓] | |
 | Plan de montaje y separación de la Lección 1 | Sección "Lección 1, 3. Plan de montaje y separación" de esta ficha | [✓] | |
-| Registro de la dificultad o duda comprobada | Sección "Lección 1, 3" y sección 7 de esta ficha | [x] | |
+| Registro de la dificultad o duda comprobada | Sección "Lección 1, 3" y sección 7 de esta ficha | [✓] | |
 | Capturas del proceso o de las correcciones | `evidencias/` | [ ] | |
 | Registro de la posición o storyboard | `evidencias/S14_E2_Posicion_Intermedia.png` | [ ] | |
 | Ficha completa y nombrada correctamente | `S14_Registro_Delgado_Jose.md` | [✓] | |
