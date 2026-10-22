@@ -190,7 +190,7 @@ Las vistas pueden distribuirse en varias hojas, pero deben permanecer dentro del
 | La versión del modelo, Storyboard, Drawing y evidencias coincide | [✓] | [ ] | |
 
 **Archivo o captura de la documentación final:** `ICT401_S13_Ensamblaje_jose_delgado Dibujo` <br>
-![Documentación final del conjunto](evidencias/S14_E4_Documentacion_Final.png)
+![Documentación final del conjunto](T14_E4_Documentacion_Final.png)
 
 | Resultado de la revisión con la rúbrica | Registro |
 |---|---|
