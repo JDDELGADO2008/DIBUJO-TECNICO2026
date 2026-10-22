@@ -153,7 +153,7 @@ Las vistas pueden distribuirse en varias hojas, pero deben permanecer dentro del
 | 2 | Globo 2 | 2026-10-14-09-25-38-873 | 1 | Soporte (`ICT401_S13_02_Soporte_…`) | [✓] |
 | 3 | Globo 3 | 2026-10-14-09-36-29-490 | 1 | Pasador (`ICT401_S13_03_Pasador_…`) | [✓] |
 
-![Lista básica de componentes e identificadores](evidencias/S14_E3_Lista_Componentes.png)
+![Lista básica de componentes e identificadores](S14_E3_Lista_Componentes.png)
 
 | Comparación | Resultado |
 |---|---|
