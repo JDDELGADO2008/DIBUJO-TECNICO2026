@@ -3,9 +3,9 @@
 **Curso:** ICT401 – Dibujo Técnico Asistido por Computadora
 **Semana:** 14
 **Tema:** Vista explosionada, lista de componentes y documentación de conjuntos
-**Estudiante:** ⚠️ COMPLETAR (Apellido, Nombre)
+**Estudiante:** jose daniel delgado
 **Fecha:** 22 de octubre de 2026
-**Archivo o enlace del conjunto:** ⚠️ COMPLETAR (enlace de Fusion o ruta, p. ej. `S14_Conjunto_Apellido_Nombre_v1`)
+**Archivo o enlace del conjunto:** (enlace de Fusion o ruta, p. ej. `S14_Conjunto_Apellido_Nombre_v1`)
 
 ## Propósito
 
