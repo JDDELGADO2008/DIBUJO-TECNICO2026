@@ -33,10 +33,10 @@ La entrega debe corresponder a **un único Drawing de Fusion**. Registre aquí c
 
 | Elemento obligatorio | Hoja o ubicación dentro del Drawing | Comprobado |
 |---|---|:---:|
-| Vistas normales `Front`, `Top` y `Right` | Hoja 2 del Drawing  | [ ] |
-| Proyección de primer diedro (sistema europeo) | Método First Angle en las propiedades del Drawing | [ ] |
+| Vistas normales `Front`, `Top` y `Right` | Hoja 2 del Drawing  | [x] |
+| Proyección de primer diedro (sistema europeo) | Método First Angle en las propiedades del Drawing | [x] |
 | Símbolo o configuración del método de proyección | Símbolo de proyección en la hoja de las vistas ortogonales (o configuración First Angle si la plantilla no lo muestra) | [ ] |
-| Vista explosionada del `Storyboard` | Vista base con representación del Storyboard dentro del mismo Drawing | [ ] |
+| Vista explosionada del `Storyboard` | Vista base con representación del Storyboard dentro del mismo Drawing | [x] |
 | Lista de componentes | Hoja 1, esquina superior derecha ("Lista de piezas") | [x] |
 | Globos o números de referencia | Hoja 1, debajo de la vista (globos 3, 2 y 1) | [x] |
 | Cajetín e identificación del conjunto | Hoja 1, esquina inferior derecha (Sheet 1/2) | [x] |
