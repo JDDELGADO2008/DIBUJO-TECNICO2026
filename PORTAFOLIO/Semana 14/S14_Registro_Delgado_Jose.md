@@ -124,10 +124,10 @@ Las vistas pueden distribuirse en varias hojas, pero deben permanecer dentro del
 **Criterio para separar los componentes:** Secuencia funcional de montaje con la Base como referencia fija; distancias proporcionales y suficientes para interpretar el conjunto, siguiendo caras y ejes de contacto.
 
 **Captura de la vista explosionada:**
-![Vista explosionada inicial](T14_E2_Posicion_Intermedia.png)
+![Vista explosionada inicial](T14_E2_expl.png)
 
 **Captura de la posición o versión intermedia, si corresponde:**
-![Posición o storyboard intermedio](evidencias/S14_E2_Posicion_Intermedia.png)
+![Posición o storyboard intermedio](T14_E2_Posicion_Intermedia.png)
 
 **Decisiones realizadas en Fusion:**
 
