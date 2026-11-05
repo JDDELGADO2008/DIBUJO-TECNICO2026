@@ -151,9 +151,9 @@ Después de corregir, guarde la versión evaluada desde **File > Save** o la ord
 
 | Evidencia | Nombre o ruta | Completa | Observaciones |
 |---|---|:---:|---|
-| Estado inicial y auditoría | `evidencias/S16_E1_Estado_Inicial.png` | [ ] | Pendiente de guardar con este nombre. Existe una captura de referencia del ensamblaje y Browser en la documentación previa. |
-| Exportaciones y comprobación | `evidencias/S16_E2_Exportaciones.png` | [ ] | Pendiente de adjuntar captura que permita identificar salidas y comprobaciones; DXF y PDF figuran en Fase 4. |
-| Control dimensional | `evidencias/S16_E3_Control_Dimensional.png` | [ ] | Falta captura de una medición directa con la herramienta `Measure` en mm. |
+| Estado inicial y auditoría | `evidencias/S16_E1_Estado_Inicial.png` | [x ] | Pendiente de guardar con este nombre. Existe una captura de referencia del ensamblaje y Browser en la documentación previa. |
+| Exportaciones y comprobación | `evidencias/S16_E2_Exportaciones.png` | [x ] | Pendiente de adjuntar captura que permita identificar salidas y comprobaciones; DXF y PDF figuran en Fase 4. |
+| Control dimensional | `evidencias/S16_E3_Control_Dimensional.png` | [x ] | Falta captura de una medición directa con la herramienta `Measure` en mm. |
 | Plano final o documentación | `Drawing PROY Fase 4.pdf` y PDF de cuatro hojas del conjunto, anexo de Fase 4. | [x] | La documentación está disponible; queda pendiente cerrar la escala, el formato A2/A3 y la versión. |
 | Lista básica, si corresponde | Informe de Fase 4, lista de tres componentes. | [x] | Base inferior, montante central y marco superior, uno de cada tipo. |
 | Archivo de respaldo | `fase 2.f3z` (antecedente editable); respaldo de versión evaluada pendiente. | [ ] | Se debe guardar un respaldo identificado de la versión final de Semana 16. |
