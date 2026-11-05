@@ -64,7 +64,8 @@ Los textos que comienzan con **Ejemplo:** muestran el nivel de detalle esperado.
 | La lista coincide con el ensamblaje, cuando corresponde. | [x] | [ ] | [ ] | La lista documentada contiene las mismas tres piezas principales del ensamblaje, una unidad de cada una. |
 | La orientación y la escala son coherentes. | [x ] | [ ] | [ ] | Las vistas se distinguen, pero está pendiente resolver el formato A2/A3 y confirmar la escala al exportar el PDF. |
 
-**Captura del estado inicial:** `S16_E1_Estado_Inicial.png`
+**Captura del estado inicial:**![Texto alternativo de la imagen](S16_E1_Estado_Inicial.png)
+ `S16_E1_Estado_Inicial.png`
 **Corrección prioritaria antes de exportar:** Abrir el diseño vigente, actualizar la referencia desactualizada, guardar una revisión identificable y sincronizar el Drawing. Completar el cajetín, resolver la diferencia entre A2 y A3, verificar escala/unidades y crear una copia de respaldo con el identificador exacto de la versión.
 
 ## Lección 2. Exportaciones y comprobación de archivos
