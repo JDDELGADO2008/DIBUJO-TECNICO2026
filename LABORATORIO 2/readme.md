@@ -91,7 +91,7 @@ Marque `N.A.` cuando un formato no corresponda al proyecto y justifique la decis
 | `Drawing PROY Fase 4.pdf` | [ x] | [ ] | [ ] | [ ] | Archivos de Fase 4. | Archivo identificado; falta cotejarlo de forma independiente con el Drawing actualizado. |
 | `fase 2.f3z`, STL y STEP | [ ] | [x ] | [ ] | [ ] | Archivo F3Z previo disponible; salidas STL/STEP pendientes. | Reabrir el F3Z y generar/comprobar STL y STEP desde la versión evaluada si se requieren. |
 
-**Archivo o captura de comprobación:** `evidencias/S16_E2_Exportaciones.png` (captura de los archivos y de su comprobación, pendiente). Se dispone de evidencia documental del PDF y de la lectura del DXF en la Fase 4.  
+**Archivo o captura de comprobación:** S`evidencias/S16_E2_Exportaciones.png` (captura de los archivos y de su comprobación, pendiente). Se dispone de evidencia documental del PDF y de la lectura del DXF en la Fase 4.  
 **Discrepancia encontrada:** La revisión de los planos registra una diferencia entre el formato A2 del Drawing y el A3 señalado en el cajetín. No se ha confirmado que DXF y PDF procedan de la misma revisión exacta del modelo; tampoco se han aportado STL y STEP de esta versión.  
 **Corrección aplicada:** Se identificaron por nombre los archivos existentes y se separaron de los pendientes. Para completar la corrección técnica se deberá actualizar el Drawing, unificar formato/escala, exportar de nuevo si corresponde y abrir cada salida para verificarla.
 
