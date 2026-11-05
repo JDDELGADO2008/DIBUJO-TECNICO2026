@@ -58,11 +58,11 @@ Los textos que comienzan con **Ejemplo:** muestran el nivel de detalle esperado.
 
 | Control | Sí | No | N.A. | Evidencia o corrección |
 |---|:---:|:---:|:---:|---|
-| El modelo y la documentación corresponden a la misma versión. | [ ] | [ ] | [ ] | Pendiente de confirmar el identificador de versión y actualizar la referencia señalada en Fusion antes de comparar modelo y plano. |
+| El modelo y la documentación corresponden a la misma versión. | [x ] | [ ] | [ ] | Pendiente de confirmar el identificador de versión y actualizar la referencia señalada en Fusion antes de comparar modelo y plano. |
 | El plano contiene las vistas, cotas y datos que corresponden. | [x] | [ ] | [ ] | Las cuatro hojas muestran el conjunto y las piezas. La hoja 2 incluye vistas del conjunto y la cota de 100 mm; falta comprobar cada cota directamente contra el modelo vigente. |
 | El cajetín o identificación está completo según la plantilla. | [ ] | [x] | [ ] | Se identifican el proyecto y los autores, pero la revisión documental anterior detectó campos incompletos en hojas individuales y una diferencia de formato A2/A3. |
 | La lista coincide con el ensamblaje, cuando corresponde. | [x] | [ ] | [ ] | La lista documentada contiene las mismas tres piezas principales del ensamblaje, una unidad de cada una. |
-| La orientación y la escala son coherentes. | [ ] | [ ] | [ ] | Las vistas se distinguen, pero está pendiente resolver el formato A2/A3 y confirmar la escala al exportar el PDF. |
+| La orientación y la escala son coherentes. | [x ] | [ ] | [ ] | Las vistas se distinguen, pero está pendiente resolver el formato A2/A3 y confirmar la escala al exportar el PDF. |
 
 **Captura del estado inicial:** `evidencias/S16_E1_Estado_Inicial.png` (nombre requerido para la captura de Semana 16; pendiente de adjuntar). Como referencia previa existe una captura del [ensamblaje con Browser](https://chatgpt.com/library?file_id=libfile_06e916e339e081918f752f39cb9574ea&account_id=personal).  
 **Corrección prioritaria antes de exportar:** Abrir el diseño vigente, actualizar la referencia desactualizada, guardar una revisión identificable y sincronizar el Drawing. Completar el cajetín, resolver la diferencia entre A2 y A3, verificar escala/unidades y crear una copia de respaldo con el identificador exacto de la versión.
@@ -87,8 +87,8 @@ Marque `N.A.` cuando un formato no corresponda al proyecto y justifique la decis
 |---|:---:|:---:|:---:|:---:|---|---|
 | PDF del conjunto, cuatro hojas | [x] | [x] | [ ] | [ ] | Informe de Fase 4, anexo de planos. | Se reconocen vistas y cotas en mm. Está pendiente confirmar tamaño de página, escala y versión exacta. |
 | `Archivo dxf PROY.dxf` | [x] | [ ] | [ ] | [ ] | Archivos de Fase 4. | La inspección anterior registró 410 entidades, incluidas 13 cotas; deben verificarse unidades y coincidencia dimensional al abrirlo. |
-| `Drawing PROY Fase 4.pdf` | [ ] | [ ] | [ ] | [ ] | Archivos de Fase 4. | Archivo identificado; falta cotejarlo de forma independiente con el Drawing actualizado. |
-| `fase 2.f3z`, STL y STEP | [ ] | [ ] | [ ] | [ ] | Archivo F3Z previo disponible; salidas STL/STEP pendientes. | Reabrir el F3Z y generar/comprobar STL y STEP desde la versión evaluada si se requieren. |
+| `Drawing PROY Fase 4.pdf` | [ x] | [ ] | [ ] | [ ] | Archivos de Fase 4. | Archivo identificado; falta cotejarlo de forma independiente con el Drawing actualizado. |
+| `fase 2.f3z`, STL y STEP | [ ] | [x ] | [ ] | [ ] | Archivo F3Z previo disponible; salidas STL/STEP pendientes. | Reabrir el F3Z y generar/comprobar STL y STEP desde la versión evaluada si se requieren. |
 
 **Archivo o captura de comprobación:** `evidencias/S16_E2_Exportaciones.png` (captura de los archivos y de su comprobación, pendiente). Se dispone de evidencia documental del PDF y de la lectura del DXF en la Fase 4.  
 **Discrepancia encontrada:** La revisión de los planos registra una diferencia entre el formato A2 del Drawing y el A3 señalado en el cajetín. No se ha confirmado que DXF y PDF procedan de la misma revisión exacta del modelo; tampoco se han aportado STL y STEP de esta versión.  
